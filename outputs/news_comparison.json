@@ -1,0 +1,81 @@
+{
+  "checks": {
+    "x": {
+      "rows": 920,
+      "days": 23,
+      "score_consistency": true
+    },
+    "news": {
+      "rows": 2764,
+      "days": 23,
+      "score_consistency": true
+    },
+    "matched_news": {
+      "rows": 920,
+      "days": 23,
+      "score_consistency": true
+    },
+    "raw_rows": 3247,
+    "raw_sources": 1432,
+    "raw_duplicate_urls": 1,
+    "x_duplicate_texts": 2,
+    "news_requested_date_differs_from_publication": 1503
+  },
+  "comparisons": {
+    "news_pooled_mean": -0.02014687818804089,
+    "news_daily_mean": -0.026828081790779893,
+    "x_daily_mean": -0.034279194549999996,
+    "daily_mean_difference": 0.0074511127592201045,
+    "daily_paired_mean_p": 0.6749822574062362,
+    "daily_wilcoxon_mean_p": 0.7090141773223877,
+    "matched_news_mean": -0.029737547552793477,
+    "matched_welch_mean_p": 0.8363985414094208,
+    "negative": {
+      "news_pooled_share": 0.1552098408104197,
+      "x_pooled_share": 0.29130434782608694,
+      "news_daily_share": 0.16017730501399488,
+      "x_daily_share": 0.291304347826087,
+      "paired_p": 1.9795210692027352e-10
+    },
+    "neutral": {
+      "news_pooled_share": 0.7604920405209841,
+      "x_pooled_share": 0.5054347826086957,
+      "news_daily_share": 0.7560077528056768,
+      "x_daily_share": 0.5054347826086956,
+      "paired_p": 1.177072597562806e-13
+    },
+    "positive": {
+      "news_pooled_share": 0.08429811866859624,
+      "x_pooled_share": 0.20326086956521738,
+      "news_daily_share": 0.08381494218032814,
+      "x_daily_share": 0.2032608695652174,
+      "paired_p": 4.654120577869159e-08
+    },
+    "risk": {
+      "news_pooled_share": 0.17510853835021709,
+      "x_pooled_share": 0.25,
+      "news_daily_share": 0.17440932691002656,
+      "x_daily_share": 0.25,
+      "paired_p": 8.652938312591309e-05
+    },
+    "matched_chi_square": {
+      "statistic": 119.36778862233574,
+      "p": 1.2011964559250237e-26,
+      "df": 2,
+      "counts": {
+        "neutral": {
+          "news": 689,
+          "x": 465
+        },
+        "negative": {
+          "news": 152,
+          "x": 268
+        },
+        "positive": {
+          "news": 79,
+          "x": 187
+        }
+      }
+    }
+  }
+}
