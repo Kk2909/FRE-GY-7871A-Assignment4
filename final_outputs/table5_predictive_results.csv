@@ -1,0 +1,5 @@
+test,target,predictor,n,f_stat,f_p_value,standardized_beta,beta_percentage_points,hc1_p_value,r_squared,adj_r_squared
+Prior Twitter sentiment -> next AI basket return,ai_basket_return,twitter_sentiment,16,1.7314,0.211,-0.0053,-0.5313,0.3045,0.1188,-0.0168
+Prior Twitter sentiment -> next AI excess return,ai_excess_return,twitter_sentiment,16,2.2257,0.1596,-0.0036,-0.355,0.2319,0.1469,0.0157
+Prior Twitter sentiment -> next SPY return,spy_return,twitter_sentiment,16,0.6136,0.4475,-0.0015,-0.1546,0.499,0.0527,-0.0931
+Prior engagement-weighted sentiment -> next AI excess return,ai_excess_return,engagement_weighted_sentiment,16,1.3935,0.259,-0.0029,-0.2926,0.2612,0.0976,-0.0412

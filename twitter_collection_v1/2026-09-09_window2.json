@@ -1,0 +1,4627 @@
+{
+  "requested_date_new_york": "2026-09-09",
+  "window_number": 2,
+  "window_start_new_york": "2026-09-09T14:08:00-04:00",
+  "window_end_new_york": "2026-09-09T15:08:00-04:00",
+  "credential_label": "key_1",
+  "query": "(\"artificial intelligence\" OR \"generative AI\") lang:en since_time:1788977280 until_time:1788980880",
+  "sampling": "First Latest page from a seeded one-hour window",
+  "retrieved_at_utc": "2026-10-02T01:03:20.172070+00:00",
+  "response": {
+    "tweets": [
+      {
+        "type": "tweet",
+        "id": "2097763943033053388",
+        "url": "https://x.com/IAmSagzee/status/2097763943033053388",
+        "twitterUrl": "https://twitter.com/IAmSagzee/status/2097763943033053388",
+        "text": "Scott Bessent clashes with bond vigilantes:\n\nYou can't buy your way out of a structural arithmetic problem with pocket change, Yellen says, setting her coffee cup down with a sharp click. $6 billion sounds impressive on a press release. To a market digesting $40 trillion of national debt and an economy running trillion-dollar deficits, it's a drop in the ocean.\n\nScott turns from the glass, his expression flat. It's not pocket change, Yellen. It's a targeted liquidity operation designed to rebalance duration risk at the long end of the curve. We're leaning against structural dislocation caused by bad information and panic selling.\n\nPanic selling implies a temporary emotional wave, Yellen replies, leaning forward. Look at the screens. Yields are still climbing. The ten-year yield is approaching 5% for a reason, and it has nothing to do with panic. It has everything to do with supply and demand.\n\nSupply and demand are governed by policy choices and credibility, Scott counters. Traders are betting against the Treasury because they assume fiscal policy cannot adapt. They are treating long term bonds as if we are powerless against inflation and deficit accumulation. But we are setting the rules of the house now.\n\nThe house has $40 trillion of liabilities, Scott, and private sector artificial intelligence projects are sucking up capital at a scale we have not seen in generations, Yellen points out. When private corporate borrowers and the federal government compete for every available dollar, the price of money goes up. No amount of debt buybacks can repeal the law of gravity in capital markets.\n\nWe're shifting issuance from long bonds to short bills, Scott explains, narrowing his eyes. We are reducing the duration burden on the public. If you flood the market with short paper while pulling back long bonds, you alter the term premium. The vigilantes are fighting a shadow.\n\nThe vigilantes are not fighting a shadow, Scott. They're looking at the math, Yellen says quietly. When interest payments on federal debt exceed defence spending and Medicaid combined, every basis point rise hits the budget directly. The market knows that you can't print solvency. Every time you intervene, you signal anxiety, and anxiety tells traders that the Treasury is sweating.\n\nSweating implies weakness, Scott says, walking over to the desk. What we're executing is an aggressive pivot. We are demonstrating that the sovereign balance sheet can actively manage its liabilities rather than sit passively while speculators push yields toward crisis levels.\n\nSpeculators are just pricing reality, Yellen answers. Look across the Atlantic and the Pacific. Japan is seeing its own yields hit multi decade highs. Germany and France are grappling with structural debt pressures. This isn't a local misunderstanding in Washington. This is a global realignment of capital costs after a decade of cheap money.\n\nAnd that's precisely why we've to break the psychology of perpetual yield expansion, Scott insists. If we surrender to the narrative that sovereign debt is unmanageable, we invite a self-fulfilling prophecy. A government that controls its own currency and its own regulatory framework is never entirely at the mercy of market sentiment unless it chooses to be.\n\nChoosing not to be at the mercy of the market sounds wonderful in a speech, but bonds don't care about rhetorical force, Yellen remarks. When you announce a buyback and yields go up anyway, the market is sending you a clear message. It's telling you that the intervention size is too small or the underlying fiscal trajectory is too large to fix with financial engineering.\n\n$6 billion is just the opening move, Scott says evenly. The operations will continue through November and beyond if necessary. If traders want to test our resolve, they're welcome to keep shorting the long end. But they're betting against a balance sheet that has more levers than they care to admit.\n\nLevers work both ways, Yellen warns. Every time you use buybacks to manipulate long term yields while keeping short term issuance high, you increase short end vulnerability and feed inflation expectations. You're shifting the pressure point, not eliminating it.\n\nEliminating it all at once is impossible, Scott admits, his tone dropping to a measured cadence. The objective is equilibrium. We're buying time for economic growth to outpace borrowing costs.\n\nGrowth is a hope, Scott, not a policy instrument, Yellen replies. And right now, the math is winning.\n\n---\n\nBond vigilantes are bond market investors who sell government bonds to protest against policies they consider fiscally reckless. By driving up yields, it's a move that raises government borrowing costs, effectively forcing politicians to restore fiscal discipline.\n\n#ScottBessent \n#BondVigilantes \n#USDebt",
+        "source": "Twitter for iPhone",
+        "retweetCount": 7,
+        "replyCount": 2,
+        "likeCount": 27,
+        "quoteCount": 3,
+        "viewCount": 29878,
+        "createdAt": "Wed Sep 09 19:07:53 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 9,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097763943033053388",
+        "displayTextRange": [
+          0,
+          274
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "IAmSagzee",
+          "url": "https://x.com/IAmSagzee",
+          "twitterUrl": "https://twitter.com/IAmSagzee",
+          "id": "2911093264",
+          "name": "Sagzee",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2084005084317224960/XuaZt5pl_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2911093264/1786846296",
+          "description": "",
+          "location": "",
+          "followers": 2366,
+          "following": 230,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Mon Dec 08 15:11:21 +0000 2014",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 196,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 938,
+          "statusesCount": 33234,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2101525234415206448"
+          ],
+          "profile_bio": {
+            "description": "AI is the tool. \nUnderstanding reality is the goal. \nFictional voices. Real questions.",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/zIjSwmihs6",
+              "expanded_url": "https://x.com/IAmSagzee/status/2097763943033053388/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 42,
+                      "w": 42,
+                      "x": 328,
+                      "y": 283
+                    },
+                    {
+                      "h": 78,
+                      "w": 78,
+                      "x": 99,
+                      "y": 255
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 42,
+                      "w": 42,
+                      "x": 328,
+                      "y": 283
+                    },
+                    {
+                      "h": 78,
+                      "w": 78,
+                      "x": 99,
+                      "y": 255
+                    }
+                  ]
+                }
+              },
+              "id_str": "2097763847105069057",
+              "indices": [
+                275,
+                298
+              ],
+              "media_key": "3_2097763847105069057",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0cwRrBWsABCgACHRzBMRcboMwAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHRzBGsFawAEKAAIdHMExFxugzAAA",
+                  "media_key": "3_2097763847105069057"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HRzBGsFawAE-_0g.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 380,
+                    "w": 678,
+                    "x": 0,
+                    "y": 72
+                  },
+                  {
+                    "h": 452,
+                    "w": 452,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 452,
+                    "w": 396,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 452,
+                    "w": 226,
+                    "x": 39,
+                    "y": 0
+                  },
+                  {
+                    "h": 452,
+                    "w": 678,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 452,
+                "width": 678
+              },
+              "sizes": {
+                "large": {
+                  "h": 452,
+                  "w": 678
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/zIjSwmihs6"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                4779,
+                4792
+              ],
+              "text": "ScottBessent"
+            },
+            {
+              "indices": [
+                4794,
+                4809
+              ],
+              "text": "BondVigilantes"
+            },
+            {
+              "indices": [
+                4811,
+                4818
+              ],
+              "text": "USDebt"
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097763675847205164",
+        "url": "https://x.com/seosaur/status/2097763675847205164",
+        "twitterUrl": "https://twitter.com/seosaur/status/2097763675847205164",
+        "text": "@aeutius AI itself isn't the issue. I wholeheartedly believe it can be used for good. It's generative AI that's the issue. It ignores copyrights, compensation, artist values, and more. No use of it is ethical. And a big influencer normalizing it is an issue.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 1,
+        "likeCount": 8,
+        "quoteCount": 0,
+        "viewCount": 314,
+        "createdAt": "Wed Sep 09 19:06:49 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "2097760115721941316",
+        "conversationId": "2097727402403127708",
+        "displayTextRange": [
+          9,
+          258
+        ],
+        "inReplyToUserId": "794680733264728064",
+        "inReplyToUsername": "aeutius",
+        "author": {
+          "type": "user",
+          "userName": "seosaur",
+          "url": "https://x.com/seosaur",
+          "twitterUrl": "https://twitter.com/seosaur",
+          "id": "2575132178",
+          "name": "Seosaur 🦊🇨🇦",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2058357383865237504/JYAqQwHN_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2575132178/1723225912",
+          "description": "",
+          "location": "She/Her",
+          "followers": 8649,
+          "following": 391,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Wed Jun 18 16:31:55 +0000 2014",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 15673,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 4630,
+          "statusesCount": 9868,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1864115486604021938"
+          ],
+          "profile_bio": {
+            "description": "♡ Vtuber | @GamerSupps & @Twitch Partner | Live2D + Freelance Artist\n♡ My links: https://t.co/VgLjfKd0v0\n♡ Commission status: OPEN\nhttps://t.co/EBY2181mct",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "linktr.ee/Seosaur",
+                    "expanded_url": "http://linktr.ee/Seosaur",
+                    "indices": [
+                      81,
+                      104
+                    ],
+                    "url": "https://t.co/VgLjfKd0v0"
+                  },
+                  {
+                    "display_url": "seosaurart.com",
+                    "expanded_url": "http://seosaurart.com",
+                    "indices": [
+                      131,
+                      154
+                    ],
+                    "url": "https://t.co/EBY2181mct"
+                  }
+                ],
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      11,
+                      22
+                    ],
+                    "name": "",
+                    "screen_name": "GamerSupps"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      25,
+                      32
+                    ],
+                    "name": "",
+                    "screen_name": "Twitch"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "twitch.tv/seosaur",
+                    "expanded_url": "https://www.twitch.tv/seosaur",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/7ls1skDjtp"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "794680733264728064",
+              "indices": [
+                0,
+                8
+              ],
+              "name": "Aeutius",
+              "screen_name": "aeutius"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097763612563812534",
+        "url": "https://x.com/ndtv/status/2097763612563812534",
+        "twitterUrl": "https://twitter.com/ndtv/status/2097763612563812534",
+        "text": "#AppleEvent📷| 𝐀𝐩𝐩𝐥𝐞 𝐢𝐏𝐡𝐨𝐧𝐞 𝟏𝟖 𝐏𝐫𝐨, 𝟏𝟖 𝐏𝐫𝐨 𝐌𝐚𝐱 𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐝: 𝐒𝐩𝐞𝐜𝐬, 𝐏𝐫𝐢𝐜𝐞 & 𝐃𝐞𝐭𝐚𝐢𝐥𝐬 𝐇𝐞𝐫𝐞 \n\nApple Inc has officially launched the iPhone 18 Pro and iPhone 18 Pro Max, introducing sweeping upgrades to its flagship lineup that prioritize processing power, battery longevity, and advanced artificial intelligence.\n\nThe premium models mark a significant technological leap for the tech giant, featuring the new A20 Pro chip and a next-generation vapor chamber designed to deliver the highest sustained performance in the product's history. \n\nPreorders for the new devices begin on Saturday, September 12, with official retail availability starting on Friday, September 18.\n\nImage source: Apple Inc website",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 3,
+        "quoteCount": 0,
+        "viewCount": 6897,
+        "createdAt": "Wed Sep 09 19:06:34 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097763612563812534",
+        "displayTextRange": [
+          0,
+          222
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "ndtv",
+          "url": "https://x.com/ndtv",
+          "twitterUrl": "https://twitter.com/ndtv",
+          "id": "37034483",
+          "name": "NDTV",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": "Business",
+          "profilePicture": "https://pbs.twimg.com/profile_images/2088619391072313344/klvKZ14z_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/37034483/1790672801",
+          "description": "",
+          "location": "India",
+          "followers": 17349153,
+          "following": 20,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Fri May 01 20:34:48 +0000 2009",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 62,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 786306,
+          "statusesCount": 1580704,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "India and the world, through the stories shaping our times. Across television, digital and social. NDTV. When It Really Matters.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "ndtv.com",
+                    "expanded_url": "http://www.ndtv.com/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/KFTuQYHgSv"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/J0iuGmzevG",
+              "expanded_url": "https://x.com/ndtv/status/2097763612563812534/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2097762940221104128",
+              "indices": [
+                223,
+                246
+              ],
+              "media_key": "3_2097762940221104128",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0cwEea26AACgACHRzA5CWbMLYAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHRzAR5rboAAKAAIdHMDkJZswtgAA",
+                  "media_key": "3_2097762940221104128"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HRzAR5rboAAqB_P.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 605,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 609
+                  },
+                  {
+                    "h": 1080,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 270
+                  },
+                  {
+                    "h": 1231,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 119
+                  },
+                  {
+                    "h": 1350,
+                    "w": 675,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1350,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1350,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1350,
+                  "w": 1080
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/J0iuGmzevG"
+            },
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/J0iuGmzevG",
+              "expanded_url": "https://x.com/ndtv/status/2097763612563812534/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2097762953084977152",
+              "indices": [
+                223,
+                246
+              ],
+              "media_key": "3_2097762953084977152",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0cwEqZmsAACgACHRzA5CWbMLYAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHRzASpmawAAKAAIdHMDkJZswtgAA",
+                  "media_key": "3_2097762953084977152"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HRzASpmawAAy4P4.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 605,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 745
+                  },
+                  {
+                    "h": 1080,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 270
+                  },
+                  {
+                    "h": 1231,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 119
+                  },
+                  {
+                    "h": 1350,
+                    "w": 675,
+                    "x": 405,
+                    "y": 0
+                  },
+                  {
+                    "h": 1350,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1350,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1350,
+                  "w": 1080
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/J0iuGmzevG"
+            },
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/J0iuGmzevG",
+              "expanded_url": "https://x.com/ndtv/status/2097763612563812534/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2097762969857978368",
+              "indices": [
+                223,
+                246
+              ],
+              "media_key": "3_2097762969857978368",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0cwE6BWnAACgACHRzA5CWbMLYAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHRzAToFacAAKAAIdHMDkJZswtgAA",
+                  "media_key": "3_2097762969857978368"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HRzAToFacAAULdp.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 605,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 745
+                  },
+                  {
+                    "h": 1080,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 270
+                  },
+                  {
+                    "h": 1231,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 119
+                  },
+                  {
+                    "h": 1350,
+                    "w": 675,
+                    "x": 169,
+                    "y": 0
+                  },
+                  {
+                    "h": 1350,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1350,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1350,
+                  "w": 1080
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/J0iuGmzevG"
+            },
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/J0iuGmzevG",
+              "expanded_url": "https://x.com/ndtv/status/2097763612563812534/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2097762985544671232",
+              "indices": [
+                223,
+                246
+              ],
+              "media_key": "3_2097762985544671232",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0cwFIoWmAACgACHRzA5CWbMLYAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHRzAUihaYAAKAAIdHMDkJZswtgAA",
+                  "media_key": "3_2097762985544671232"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HRzAUihaYAAVSfn.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 605,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 541
+                  },
+                  {
+                    "h": 1080,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 270
+                  },
+                  {
+                    "h": 1231,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 119
+                  },
+                  {
+                    "h": 1350,
+                    "w": 675,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1350,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1350,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1350,
+                  "w": 1080
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/J0iuGmzevG"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                11
+              ],
+              "text": "AppleEvent"
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097763526618345889",
+        "url": "https://x.com/Ibn_marzuk/status/2097763526618345889",
+        "twitterUrl": "https://twitter.com/Ibn_marzuk/status/2097763526618345889",
+        "text": "Learning in public — Day 2.\n\nInternship: Machine Learning and Generative AI (remote).\n\nTask: watch a one-shot Python video and write short notes.\n\nWhat I kept:\n\n1. Colab is enough to start. I do not need a local setup on day one.\n2. Python will not warn me when I treat text like a number.\n3. A list is a sequence. A dict is a labelled record. Datasets later will feel like one of these two.\n\nI still have one question: when we move to real training data, do we start from a Python list or go straight to a table library?\n\nBuilding the basics before the projects.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 1,
+        "likeCount": 7,
+        "quoteCount": 0,
+        "viewCount": 27,
+        "createdAt": "Wed Sep 09 19:06:13 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "2097763502517613000",
+        "conversationId": "2097763502517613000",
+        "displayTextRange": [
+          0,
+          279
+        ],
+        "inReplyToUserId": "1642776205291134977",
+        "inReplyToUsername": "Ibn_marzuk",
+        "author": {
+          "type": "user",
+          "userName": "Ibn_marzuk",
+          "url": "https://x.com/Ibn_marzuk",
+          "twitterUrl": "https://twitter.com/Ibn_marzuk",
+          "id": "1642776205291134977",
+          "name": "𝐈𝐛𝐧𝐦𝐚𝐫𝐳𝐮𝐤",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2064609723379269632/JtjMwKcF_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1642776205291134977/1784227005",
+          "description": "",
+          "location": "Ilorin → Global",
+          "followers": 1735,
+          "following": 2145,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Mon Apr 03 06:29:57 +0000 2023",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 11067,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 871,
+          "statusesCount": 10913,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2098390902808941002"
+          ],
+          "profile_bio": {
+            "description": "CTO @Chainlift_ | AI Lead @Onboard3___\n\nBuilding AI products, agents & intelligent systems | AI × Web3 | Contributor @SuperteamNG",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      4,
+                      15
+                    ],
+                    "name": "",
+                    "screen_name": "Chainlift_"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      26,
+                      38
+                    ],
+                    "name": "",
+                    "screen_name": "Onboard3___"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      117,
+                      129
+                    ],
+                    "name": "",
+                    "screen_name": "SuperteamNG"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "ibn-marzuk.vercel.app",
+                    "expanded_url": "https://ibn-marzuk.vercel.app/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/OiO8xOzWQ2"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/XJtcHnS6Lj",
+              "expanded_url": "https://x.com/Ibn_marzuk/status/2097763526618345889/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2097763510281551872",
+              "indices": [
+                280,
+                303
+              ],
+              "media_key": "3_2097763510281551872",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0cwMxVG8AACgACHRzA0CLbcaEAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHRzAzFUbwAAKAAIdHMDQIttxoQAA",
+                  "media_key": "3_2097763510281551872"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HRzAzFUbwAA72LU.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 605,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 69
+                  },
+                  {
+                    "h": 1080,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1231,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1350,
+                    "w": 675,
+                    "x": 101,
+                    "y": 0
+                  },
+                  {
+                    "h": 1350,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1350,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1350,
+                  "w": 1080
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/XJtcHnS6Lj"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097763502517613000",
+        "url": "https://x.com/Ibn_marzuk/status/2097763502517613000",
+        "twitterUrl": "https://twitter.com/Ibn_marzuk/status/2097763502517613000",
+        "text": "Day 2 of my remote Machine Learning and Generative AI internship.\n\nYesterday was definitions.\nToday was the language those definitions sit on: Python.\n\nI watched Big Brains’ Python fundamentals session and took notes on:\n\n• Google Colab\n• variables and types\n• input() always returning a string\n• if / elif / else\n• lists, tuples, dictionaries, sets\n• string slicing\n• range()\n\nNo model yet. That is the point.\n\nIf the types are wrong, the later ML code will fail for a boring reason.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 2,
+        "replyCount": 8,
+        "likeCount": 12,
+        "quoteCount": 0,
+        "viewCount": 290,
+        "createdAt": "Wed Sep 09 19:06:08 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 5,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097763502517613000",
+        "displayTextRange": [
+          0,
+          275
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "Ibn_marzuk",
+          "url": "https://x.com/Ibn_marzuk",
+          "twitterUrl": "https://twitter.com/Ibn_marzuk",
+          "id": "1642776205291134977",
+          "name": "𝐈𝐛𝐧𝐦𝐚𝐫𝐳𝐮𝐤",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2064609723379269632/JtjMwKcF_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1642776205291134977/1784227005",
+          "description": "",
+          "location": "Ilorin → Global",
+          "followers": 1735,
+          "following": 2145,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Mon Apr 03 06:29:57 +0000 2023",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 11067,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 871,
+          "statusesCount": 10913,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2098390902808941002"
+          ],
+          "profile_bio": {
+            "description": "CTO @Chainlift_ | AI Lead @Onboard3___\n\nBuilding AI products, agents & intelligent systems | AI × Web3 | Contributor @SuperteamNG",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      4,
+                      15
+                    ],
+                    "name": "",
+                    "screen_name": "Chainlift_"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      26,
+                      38
+                    ],
+                    "name": "",
+                    "screen_name": "Onboard3___"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      117,
+                      129
+                    ],
+                    "name": "",
+                    "screen_name": "SuperteamNG"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "ibn-marzuk.vercel.app",
+                    "expanded_url": "https://ibn-marzuk.vercel.app/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/OiO8xOzWQ2"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/L4DilXfRIG",
+              "expanded_url": "https://x.com/Ibn_marzuk/status/2097763502517613000/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2097763493843709960",
+              "indices": [
+                276,
+                299
+              ],
+              "media_key": "3_2097763493843709960",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0cwMiBVjAICgACHRzAyoZXccgAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHRzAyIFWMAgKAAIdHMDKhldxyAAA",
+                  "media_key": "3_2097763493843709960"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HRzAyIFWMAgj-LJ.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 605,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 136
+                  },
+                  {
+                    "h": 1080,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1231,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1350,
+                    "w": 675,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1350,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1350,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1350,
+                  "w": 1080
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/L4DilXfRIG"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097763431101104293",
+        "url": "https://x.com/News4SA/status/2097763431101104293",
+        "twitterUrl": "https://twitter.com/News4SA/status/2097763431101104293",
+        "text": "Anthropic researchers warn artificial intelligence could destroy humanity in the future https://t.co/8XXHUEKzhW",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 1,
+        "quoteCount": 1,
+        "viewCount": 1117,
+        "createdAt": "Wed Sep 09 19:05:51 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097763431101104293",
+        "displayTextRange": [
+          0,
+          111
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "News4SA",
+          "url": "https://x.com/News4SA",
+          "twitterUrl": "https://twitter.com/News4SA",
+          "id": "17194257",
+          "name": "News 4 San Antonio",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/900902019510042624/krKkrsmg_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/17194257/1398856933",
+          "description": "",
+          "location": "San Antonio, Texas",
+          "followers": 260534,
+          "following": 3297,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Wed Nov 05 18:25:01 +0000 2008",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 5806,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 146135,
+          "statusesCount": 426602,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "We are News 4 San Antonio. Your source for the latest news, weather and traffic. We're also San Antonio’s first TV station and an NBC affiliate.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "news4sa.com",
+                    "expanded_url": "http://news4sa.com",
+                    "indices": [
+                      0,
+                      22
+                    ],
+                    "url": "http://t.co/PWjbfoA36T"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "image_value": {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=280x150",
+                  "width": 266
+                }
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "string_value": "Anthropic researches have been sounding the alarm bells about artificial intelligence, warning that the technology could destroy humanity."
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "string_value": "news4sanantonio.com"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "image_value": {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=800x320_1",
+                  "width": 569
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "image_value": {
+                  "height": 743,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=orig",
+                  "width": 1320
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "image_value": {
+                  "height": 81,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=144x144",
+                  "width": 144
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 743,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=png&name=2048x2048_2_exp",
+                  "width": 1320
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "image_value": {
+                  "height": 743,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=orig",
+                  "width": 1320
+                }
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribe_key": "vanity_url",
+                "string_value": "news4sanantonio.com"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 78.48,
+                      "rgb": {
+                        "blue": 135,
+                        "green": 93,
+                        "red": 24
+                      }
+                    },
+                    {
+                      "percentage": 11.95,
+                      "rgb": {
+                        "blue": 176,
+                        "green": 158,
+                        "red": 99
+                      }
+                    },
+                    {
+                      "percentage": 5.81,
+                      "rgb": {
+                        "blue": 93,
+                        "green": 47,
+                        "red": 12
+                      }
+                    },
+                    {
+                      "percentage": 2.62,
+                      "rgb": {
+                        "blue": 169,
+                        "green": 139,
+                        "red": 39
+                      }
+                    },
+                    {
+                      "percentage": 0.49,
+                      "rgb": {
+                        "blue": 151,
+                        "green": 125,
+                        "red": 30
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "string_value": "Anthropic researchers warn artificial intelligence could destroy humanity in the future"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 78.48,
+                      "rgb": {
+                        "blue": 135,
+                        "green": 93,
+                        "red": 24
+                      }
+                    },
+                    {
+                      "percentage": 11.95,
+                      "rgb": {
+                        "blue": 176,
+                        "green": 158,
+                        "red": 99
+                      }
+                    },
+                    {
+                      "percentage": 5.81,
+                      "rgb": {
+                        "blue": 93,
+                        "green": 47,
+                        "red": 12
+                      }
+                    },
+                    {
+                      "percentage": 2.62,
+                      "rgb": {
+                        "blue": 169,
+                        "green": 139,
+                        "red": 39
+                      }
+                    },
+                    {
+                      "percentage": 0.49,
+                      "rgb": {
+                        "blue": 151,
+                        "green": 125,
+                        "red": 30
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 743,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=png&name=2048x2048_2_exp",
+                  "width": 1320
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 78.48,
+                      "rgb": {
+                        "blue": 135,
+                        "green": 93,
+                        "red": 24
+                      }
+                    },
+                    {
+                      "percentage": 11.95,
+                      "rgb": {
+                        "blue": 176,
+                        "green": 158,
+                        "red": 99
+                      }
+                    },
+                    {
+                      "percentage": 5.81,
+                      "rgb": {
+                        "blue": 93,
+                        "green": 47,
+                        "red": 12
+                      }
+                    },
+                    {
+                      "percentage": 2.62,
+                      "rgb": {
+                        "blue": 169,
+                        "green": 139,
+                        "red": 39
+                      }
+                    },
+                    {
+                      "percentage": 0.49,
+                      "rgb": {
+                        "blue": 151,
+                        "green": 125,
+                        "red": 30
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "image_value": {
+                  "height": 743,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=png&name=2048x2048_2_exp",
+                  "width": 1320
+                }
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/8XXHUEKzhW"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "image_value": {
+                  "height": 743,
+                  "url": "https://pbs.twimg.com/card_img/2105572579935162368/sLZsMCqa?format=jpg&name=orig",
+                  "width": 1320
+                }
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/8XXHUEKzhW",
+          "user_refs_results": []
+        },
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bit.ly/4xe2y00",
+              "expanded_url": "https://bit.ly/4xe2y00",
+              "indices": [
+                88,
+                111
+              ],
+              "url": "https://t.co/8XXHUEKzhW"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097763237848572134",
+        "url": "https://x.com/games_liker1/status/2097763237848572134",
+        "twitterUrl": "https://twitter.com/games_liker1/status/2097763237848572134",
+        "text": "@nanobuds47 I’m confused why this is bad like it’s not generative AI so what’s the issue here lol",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 3,
+        "likeCount": 7,
+        "quoteCount": 0,
+        "viewCount": 3355,
+        "createdAt": "Wed Sep 09 19:05:05 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "2097743025870950730",
+        "conversationId": "2097743025870950730",
+        "displayTextRange": [
+          12,
+          97
+        ],
+        "inReplyToUserId": "1313159700146524162",
+        "inReplyToUsername": "nanobuds47",
+        "author": {
+          "type": "user",
+          "userName": "games_liker1",
+          "url": "https://x.com/games_liker1",
+          "twitterUrl": "https://twitter.com/games_liker1",
+          "id": "705640485",
+          "name": "Games haver",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1699680411138260992/rHswsZhb_normal.png",
+          "coverPicture": "",
+          "description": "",
+          "location": "",
+          "followers": 40,
+          "following": 261,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Wed Oct 09 00:24:08 +0000 2013",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 16657,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 193,
+          "statusesCount": 6141,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "He/Him, 25, just a reply guy i have nothing interesting to offer with this account lol \n\nAlso survived 2 suspensions",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "1313159700146524162",
+              "indices": [
+                0,
+                11
+              ],
+              "name": "Nano",
+              "screen_name": "nanobuds47"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097762775217107357",
+        "url": "https://x.com/Shoalresearch/status/2097762775217107357",
+        "twitterUrl": "https://twitter.com/Shoalresearch/status/2097762775217107357",
+        "text": "As more web traffic becomes automated, increasingly driven by generative AI, the content-for-traffic barter exchange that funded the open web and allowed unprecedented global democratization of information for the past 30 years starts to collapse.\n\nIn our latest piece by @zaddycoin and @ptimfv we explore how we got to this point, the two distinct solutions thus far, and what the state of the newly emerging pay-per-request web looks like today",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 8,
+        "quoteCount": 0,
+        "viewCount": 1005,
+        "createdAt": "Wed Sep 09 19:03:14 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 4,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097762775217107357",
+        "displayTextRange": [
+          0,
+          271
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "Shoalresearch",
+          "url": "https://x.com/Shoalresearch",
+          "twitterUrl": "https://twitter.com/Shoalresearch",
+          "id": "1600602610033049600",
+          "name": "Shoal Research",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1750343257060425728/V1rctkOC_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1600602610033049600/1683471991",
+          "description": "",
+          "location": "",
+          "followers": 6261,
+          "following": 27,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Wed Dec 07 21:26:21 +0000 2022",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1071,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 140,
+          "statusesCount": 512,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2036438658174103864"
+          ],
+          "profile_bio": {
+            "description": "Research firm at the cutting edge of the\nAgentic Economy and Capital Markets",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "shoal.xyz/linktree",
+                    "expanded_url": "http://shoal.xyz/linktree",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/aV1BQtzA2q"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "id_str": "1153749090183761920",
+              "indices": [
+                272,
+                282
+              ],
+              "name": "Gabe",
+              "screen_name": "zaddycoin"
+            },
+            {
+              "id_str": "1440459919962959877",
+              "indices": [
+                287,
+                294
+              ],
+              "name": "Paul Timofeev",
+              "screen_name": "ptimfv"
+            }
+          ]
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "2097760062781751532",
+          "url": "https://x.com/Shoalresearch/status/2097760062781751532",
+          "twitterUrl": "https://twitter.com/Shoalresearch/status/2097760062781751532",
+          "text": "https://t.co/CtaPoLTQ5V",
+          "source": "Twitter for iPhone",
+          "retweetCount": 8,
+          "replyCount": 8,
+          "likeCount": 41,
+          "quoteCount": 13,
+          "viewCount": 15856,
+          "createdAt": "Wed Sep 09 18:52:28 +0000 2026",
+          "lang": "zxx",
+          "bookmarkCount": 35,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "2097760062781751532",
+          "displayTextRange": [
+            0,
+            23
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "Shoalresearch",
+            "url": "https://x.com/Shoalresearch",
+            "twitterUrl": "https://twitter.com/Shoalresearch",
+            "id": "1600602610033049600",
+            "name": "Shoal Research",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1750343257060425728/V1rctkOC_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1600602610033049600/1683471991",
+            "description": "",
+            "location": "",
+            "followers": 6261,
+            "following": 27,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Wed Dec 07 21:26:21 +0000 2022",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 1071,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 140,
+            "statusesCount": 512,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2036438658174103864"
+            ],
+            "profile_bio": {
+              "description": "Research firm at the cutting edge of the\nAgentic Economy and Capital Markets",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "shoal.xyz/linktree",
+                      "expanded_url": "http://shoal.xyz/linktree",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/aV1BQtzA2q"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/article/2097…",
+                "expanded_url": "https://x.com/i/article/2097760054384697344",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/CtaPoLTQ5V"
+              }
+            ]
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": {
+            "title": "How AI Is Breaking the Internet Economy",
+            "preview_text": "Written By Gabe Tramble @zaddycoin and Paul Timofeev @ptimfv\nSpecial thanks to Rohin Lohe at Cloudflare, Jennifer Ong and Kyle Corcoran at TollBit, Tim Conard and Cuy Sheffield at Visa, and Son Do at",
+            "cover_media_img_url": "https://pbs.twimg.com/media/HRy9oBsawAAU020.jpg"
+          }
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097762690819121213",
+        "url": "https://x.com/Tyroarrr/status/2097762690819121213",
+        "twitterUrl": "https://twitter.com/Tyroarrr/status/2097762690819121213",
+        "text": "@tiddie_ I genuinely can't believe a grown ass man is laughing out loud because of a poorly edited can which Imo is better than the use of generative AI. You went to sit your ass down and this tickled you? 😭",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 1536,
+        "createdAt": "Wed Sep 09 19:02:54 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "2097486848054452437",
+        "conversationId": "2097486848054452437",
+        "displayTextRange": [
+          9,
+          207
+        ],
+        "inReplyToUserId": "816112504074104832",
+        "inReplyToUsername": "tiddie_",
+        "author": {
+          "type": "user",
+          "userName": "Tyroarrr",
+          "url": "https://x.com/Tyroarrr",
+          "twitterUrl": "https://twitter.com/Tyroarrr",
+          "id": "1529520308293615619",
+          "name": "twinkie",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1761046621901492224/Z7pAYGXQ_normal.jpg",
+          "coverPicture": "",
+          "description": "",
+          "location": "",
+          "followers": 44,
+          "following": 387,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Wed May 25 17:50:56 +0000 2022",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1782,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 0,
+          "statusesCount": 176,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1658905490145910801"
+          ],
+          "profile_bio": {
+            "description": ".",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "816112504074104832",
+              "indices": [
+                0,
+                8
+              ],
+              "name": "#ichokedenough",
+              "screen_name": "tiddie_"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097762596946342068",
+        "url": "https://x.com/SudaneseEcho/status/2097762596946342068",
+        "twitterUrl": "https://twitter.com/SudaneseEcho/status/2097762596946342068",
+        "text": "Paid Campaign Targets Sudanese Army, Promotes Chemical Weapons Claims and the UAE Through Four Sites Posing as Independent News Outlets... So Who Is Behind It? We Can Guess\n\nIt began with a LinkedIn advertisement for a website called The Levantine. What initially looked like an ordinary promotion for a new media outlet became, in an investigation by disinformation researcher Marc Owen Jones, the entry point into a network of interconnected websites presenting themselves as independent news organisations.\n\nThe data, however, points to something much more coordinated: a paid influence operation with a striking focus on Sudan, heavily promoting narratives targeting the Sudanese Armed Forces and its leadership, while the United Arab Emirates receives favourable treatment and is largely spared criticism in the paid material examined.\n\nThe visual version of the investigation follows the sequence of Jones’s original English report, presenting the evidence, images and video material with Arabic translation and visual markers that help trace the links connecting the four websites.\n\nThe investigation examines four outlets: The Levantine, Diplomatic Post, Frontline Radar and Global Reporters. Despite their different names and visual identities, Jones identified links between them through advertising payments, tracking codes, publishing accounts and shared email infrastructure.\n\nOne of the key starting points was PM Web Solutions Limited, which appeared as the entity paying for advertisements promoting the sites on LinkedIn. By examining Hong Kong corporate records, Jones found that the company was established in April 2026 by two individuals holding North Macedonian passports, Martin Mitushev and Borche Ivanovski.\n\nThe investigation also traced technical links connecting an account named “AI Admin” to developer Dimi Levov, using matching identifiers associated with email addresses across public services and sources. Jones is careful, however, to stress that establishing these connections does not reveal who hired whom, nor does it identify the ultimate client behind the campaign.\n\nThe websites did not rely exclusively on anonymous or unverifiable names. Their editorial pages included real people whose identities could be confirmed, among them Eric D’Amato, a locally elected official in New Jersey, as well as journalists Joseph Hammond and Levin Tai.\n\nAccording to the investigation, D’Amato confirmed that he had been approached by someone to contribute to The Levantine. Other genuine contributors and organisations also appeared across the sites.\n\nAlongside these real identities, Jones identified editorial names that appeared potentially fabricated, as well as similar naming patterns repeated across the websites. He highlighted names such as “Clara Quill,” “Julian Page” and “Beatrix Binder,” whose surnames conspicuously evoke writing and stationery.\n\nThe combination of real contributors and apparently manufactured editorial identities helps give the sites the appearance of legitimate news organisations. Jones also identified signs of artificial intelligence use, including published links containing ChatGPT tracking tags and identical privacy policies in which template placeholders had apparently been left unfilled.\n\nThe most important finding emerged when Jones compared what the sites published with what they actually paid to promote.\n\nThe investigation identified 3,708 articles in total, with the textual analysis based on 3,606 articles for which full text could be recovered. It also examined 558 advertisements placed across LinkedIn and Meta.\n\nAt first glance, the websites appear to cover a broad international agenda, including Iran, Ukraine, China, US politics, European security and the Middle East.\n\nThe picture changes dramatically when the paid advertisements are examined.\n\nWhen those advertisements were classified by geographical focus, Sudan ranked first, followed by Saudi Arabia and then the European Union.\n\nJones found that certain subjects were promoted far more heavily than their proportional presence in the websites’ overall editorial output would suggest. The paid amplification was approximately 5.86 times higher for content concerning Islamists and the Muslim Brotherhood, 4.65 times higher for Sudan, 4.59 times higher for the Sudanese Armed Forces and Abdel Fattah al-Burhan, and 3.15 times higher for Saudi Arabia.\n\nThat distinction is crucial.\n\nThousands of articles give the sites the appearance of broad, general-interest news organisations. But the advertising money is concentrated on a much narrower set of political messages, with Sudan, the Sudanese military and its leadership receiving particularly disproportionate attention.\n\nThe pattern becomes even more striking when the tone of the promoted material is examined.\n\nWhile advertisements criticised the Sudanese Armed Forces, Islamists and political actors described in the investigation as closer to the army, the country that received positive promotional coverage was the United Arab Emirates.\n\nIn the advertising sample Jones collected and classified, he found no paid article criticising the UAE, while identifying four that were supportive of it.\n\nThe same pattern applied to the Rapid Support Forces militia.\n\nJones found no advertisement in his sample that criticised the Rapid Support Forces either. The militia also appeared less frequently in paid advertisements than the Sudanese Armed Forces, even though the two sides appeared at more comparable levels in the sites’ overall published content.\n\nThese findings relate specifically to the sample collected and classified by Jones. But they form the basis of his conclusion that the paid promotion does not simply reflect the websites’ editorial output. The advertising operation shows a clear selectivity in deciding which narratives are worth paying to place before larger audiences.\n\nThe campaign was also aimed beyond Arab or regional audiences.\n\nJones documented advertising targeting several European countries, including France, Germany, Belgium and the United Kingdom.\n\nWhere city-level data was available, locations including Brussels, Strasbourg and Frankfurt appeared among those targeted, placing the campaign close to major European political and institutional centres. Jones links this pattern to an apparent effort to reach audiences capable of influencing European policy toward Sudan.\n\nThe investigation also examined the timing of promoted claims alleging that the Sudanese Armed Forces had used chemical weapons.\n\nJones noted that advertisements from this network were promoting such allegations before the most recent major newspaper reports based on anonymous intelligence sources appeared. He stated that his advertising dataset extended to approximately September 1 or 2, 2026.\n\nAnother striking detail concerns Khalid Omar Youssef, widely known as Khalid Silik, a prominent figure in the Somoud alliance.\n\nThe Levantine published an article titled “Khalid Omar Youssef Is the Leader Who Can Unite Sudan,” presenting him in explicitly favourable terms and promoting him as a political figure capable of bringing the country together.\n\nThat appearance carries particular significance in Sudan’s deeply contested political environment.\n\nSomoud includes a number of civilian political groups and figures opposed to the Sudanese government. It is led by former prime minister Abdalla Hamdok, who resigned from office on January 2, 2022. The alliance presents itself as a civilian framework seeking to end the war and restore civilian rule.\n\nIts positions on the conflict, its regional relationships, and its approach to the role of the UAE and the Rapid Support Forces militia have nevertheless generated considerable controversy inside Sudan.\n\nThe positive promotion of one of Somoud’s most prominent figures by a network that, according to Jones’s findings, spent money amplifying material targeting the Sudanese military, while producing no paid criticism of either the UAE or the Rapid Support Forces in the sample he examined, is therefore likely to reinforce suspicions already held by many Sudanese about Somoud’s relationship with the UAE and the degree to which their political positions overlap.\n\nThat does not, on its own, establish that Khalid Omar Youssef or the Somoud alliance funds, manages or directs the network.\n\nBut in the context of the broader pattern uncovered by the investigation, the appearance is politically significant.\n\nJones ultimately establishes substantial operational, technical and advertising connections between four websites that present themselves as independent outlets, together with a highly selective pattern in the political messages being amplified with paid advertising, particularly those concerning Sudan and the Sudanese Armed Forces.\n\nOne question, however, remains unanswered. Who is the ultimate client behind the campaign?\n\nJones does not identify that client, and the evidence he presents does not allow anyone to state the answer as established fact. But consider the pattern.\n\nThe paid campaign is disproportionately focused on Sudan. The Sudanese Armed Forces and its leadership receive far more advertising attention than their share of ordinary editorial coverage would predict. No paid advertisement in Jones’s sample criticises the Rapid Support Forces. None criticises the UAE. Meanwhile, the UAE receives positive promotional coverage.\n\nSo while the evidence does not yet allow the ultimate client to be named conclusively, readers can certainly guess.\n\n#Sudan\n#RSFisTerroristOrganization\n#UAEKillsSudanesePeople\n#UAESponsorsTerrorism",
+        "source": "Twitter for iPhone",
+        "retweetCount": 6,
+        "replyCount": 2,
+        "likeCount": 6,
+        "quoteCount": 0,
+        "viewCount": 1477,
+        "createdAt": "Wed Sep 09 19:02:32 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097762596946342068",
+        "displayTextRange": [
+          0,
+          278
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "SudaneseEcho",
+          "url": "https://x.com/SudaneseEcho",
+          "twitterUrl": "https://twitter.com/SudaneseEcho",
+          "id": "1834427209605419008",
+          "name": "Sudanese Echo",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1835535722041786368/tP7Yv1___normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1834427209605419008/1726734016",
+          "description": "",
+          "location": "Sudan",
+          "followers": 15560,
+          "following": 12,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Fri Sep 13 03:02:11 +0000 2024",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 1560,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 6612,
+          "statusesCount": 6879,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1983219542793809991"
+          ],
+          "profile_bio": {
+            "description": "Reflecting Sudan’s true voices. Sharing updates on resilience, achievements, and the fight for justice. Focused on truth, unity, and Sudan’s bright future.",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/9gbhzRPFlP",
+              "expanded_url": "https://x.com/SudaneseEcho/status/2097762596946342068/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 65,
+                      "w": 65,
+                      "x": 587,
+                      "y": 555
+                    },
+                    {
+                      "h": 111,
+                      "w": 111,
+                      "x": 1171,
+                      "y": 489
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 100,
+                      "w": 100,
+                      "x": 891,
+                      "y": 842
+                    },
+                    {
+                      "h": 169,
+                      "w": 169,
+                      "x": 1776,
+                      "y": 742
+                    }
+                  ]
+                }
+              },
+              "id_str": "2097761493458550789",
+              "indices": [
+                279,
+                302
+              ],
+              "media_key": "3_2097761493458550789",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0cvvbBFwAFCgACHRy/964WcLQAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHRy+9sEXAAUKAAIdHL/3rhZwtAAA",
+                  "media_key": "3_2097761493458550789"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HRy-9sEXAAUrO-j.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1739,
+                    "w": 3105,
+                    "x": 0,
+                    "y": 1366
+                  },
+                  {
+                    "h": 3105,
+                    "w": 3105,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 3105,
+                    "w": 2724,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 3105,
+                    "w": 1553,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 3105,
+                    "w": 3105,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 3105,
+                "width": 3105
+              },
+              "sizes": {
+                "large": {
+                  "h": 2048,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/9gbhzRPFlP"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                9543,
+                9549
+              ],
+              "text": "Sudan"
+            },
+            {
+              "indices": [
+                9550,
+                9577
+              ],
+              "text": "RSFisTerroristOrganization"
+            },
+            {
+              "indices": [
+                9578,
+                9601
+              ],
+              "text": "UAEKillsSudanesePeople"
+            },
+            {
+              "indices": [
+                9602,
+                9623
+              ],
+              "text": "UAESponsorsTerrorism"
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097762463072612533",
+        "url": "https://x.com/mindarchx/status/2097762463072612533",
+        "twitterUrl": "https://twitter.com/mindarchx/status/2097762463072612533",
+        "text": "A dead MIT professor accidentally destroyed the $25 billion executive coaching industry with one hour of lecture, and ten million people have already watched him do it.\n\nHe filmed it once in January 2018 and died eighteen months later.\n\nExecutive coaches charge sixteen thousand dollars a session to teach a third of what he covered in that one hour for free.\n\nHis name was Patrick Winston. He ran the MIT Artificial Intelligence Laboratory from 1972 to 1997 and wrote the AI textbook every computer science major in the world read for thirty years.\n\nEvery January for four decades, he gave a lecture called \"How to Speak.\"\n\nHis entire framework fits on a napkin.\n\nDo not read. Be in the image. Keep images simple. Eliminate clutter. Start with an empathetic connection. End with a punch line the audience can repeat over dinner. Never open with a joke. Never end with \"thank you.\"\n\nThat last rule alone has probably cost the executive coaching industry a hundred million dollars.\n\n\"Your success in life will be determined largely by your ability to speak, your ability to write, and the quality of your ideas. In that order.\"\n\nThat is the actual opening line of the lecture. Winston believed it strongly enough to spend fifty years teaching computer scientists how to talk.\n\nFounders spend $80,000 on an MBA and then hire a communications coach to teach them the same material Winston filmed once for free. Engineers write brilliant code and lose promotions to teammates who watched this lecture on the train.\n\nThe lecture is free on MIT OpenCourseWare. The textbook is free on his page.\n\nWinston died in 2019. Almost none of the ten million viewers have actually implemented the four rules on the napkin.\n\nThe napkin is free. The willingness to actually use it in your next meeting is the entire edge.\n\nThe answer is in this video. Don't miss this gem.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 3592,
+        "replyCount": 117,
+        "likeCount": 17597,
+        "quoteCount": 80,
+        "viewCount": 1849654,
+        "createdAt": "Wed Sep 09 19:02:00 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 33369,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097762463072612533",
+        "displayTextRange": [
+          0,
+          278
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "mindarchx",
+          "url": "https://x.com/mindarchx",
+          "twitterUrl": "https://twitter.com/mindarchx",
+          "id": "2072290464724582400",
+          "name": "MindArch",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2072292065904295936/tyGnOZE4_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2072290464724582400/1782908050",
+          "description": "",
+          "location": "State of Mind",
+          "followers": 10246,
+          "following": 64,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Wed Jul 01 12:08:00 +0000 2026",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 449,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 114,
+          "statusesCount": 211,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2084141758078652877"
+          ],
+          "profile_bio": {
+            "description": "Pure alpha knowledge\n\nDM for any business",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "additional_media_info": {
+                "monetizable": false
+              },
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/mSVHACWYsI",
+              "expanded_url": "https://x.com/mindarchx/status/2097762463072612533/video/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "id_str": "2097631957777514496",
+              "indices": [
+                279,
+                302
+              ],
+              "media_key": "13_2097631957777514496",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAAR0cSSbg1gAAAAA=",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAAECgABHRxJJuDWAAAAAA==",
+                  "media_key": "13_2097631957777514496"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2097631957777514496/img/6FP9kNXNyRTqWsn6.jpg",
+              "original_info": {
+                "focus_rects": [],
+                "height": 720,
+                "width": 1280
+              },
+              "sizes": {
+                "large": {
+                  "h": 720,
+                  "w": 1280
+                }
+              },
+              "type": "video",
+              "url": "https://t.co/mSVHACWYsI",
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 3729867,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/2097631957777514496/pl/R9LAvKanRy8iAe2O.m3u8?tag=29&v=54b"
+                  },
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2097631957777514496/vid/avc1/480x270/0mSgqVe4I_IBduyE.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2097631957777514496/vid/avc1/640x360/qrk_mtUuUzxx6xw-.mp4?tag=29"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/2097631957777514496/vid/avc1/1280x720/p7XEaQnqhA9qHz2L.mp4?tag=29"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097762295346594120",
+        "url": "https://x.com/RevaiiVt/status/2097762295346594120",
+        "twitterUrl": "https://twitter.com/RevaiiVt/status/2097762295346594120",
+        "text": "@loxeigh We’re against AI, which isn’t creation btw, it’s theft. Generative ai scrapes the internet from existing work CREATED by creators to generate slop.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 1,
+        "likeCount": 14,
+        "quoteCount": 0,
+        "viewCount": 114,
+        "createdAt": "Wed Sep 09 19:01:20 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": true,
+        "inReplyToId": "2097761686656790554",
+        "conversationId": "2097761686656790554",
+        "displayTextRange": [
+          9,
+          156
+        ],
+        "inReplyToUserId": "1417451264883916809",
+        "inReplyToUsername": "loxeigh",
+        "author": {
+          "type": "user",
+          "userName": "RevaiiVt",
+          "url": "https://x.com/RevaiiVt",
+          "twitterUrl": "https://twitter.com/RevaiiVt",
+          "id": "1772437075016515586",
+          "name": "RevaiiVT🍬🍰 // Sugar Demon Vtuber 2.0",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2098155823625277440/P5ORDs3q_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1772437075016515586/1783973397",
+          "description": "",
+          "location": "https://twitch.tv/revaiivt",
+          "followers": 903,
+          "following": 555,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue Mar 26 01:35:16 +0000 2024",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 77822,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 1149,
+          "statusesCount": 4262,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1982269175377649770"
+          ],
+          "profile_bio": {
+            "description": "Hello, hi, I’m Revaii!! I’m a sugar demon vtuber! https://t.co/ymDba0zwVY art tag: #revaiiart 🔞art tag: #sweetsins business email: revaiivt@gmail.com",
+            "entities": {
+              "description": {
+                "hashtags": [
+                  {
+                    "indices": [
+                      83,
+                      93
+                    ],
+                    "text": "revaiiart"
+                  },
+                  {
+                    "indices": [
+                      104,
+                      114
+                    ],
+                    "text": "sweetsins"
+                  }
+                ],
+                "urls": [
+                  {
+                    "display_url": "twitch.tv/revaiivt",
+                    "expanded_url": "https://twitch.tv/revaiivt",
+                    "indices": [
+                      50,
+                      73
+                    ],
+                    "url": "https://t.co/ymDba0zwVY"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "revaiivt.carrd.co",
+                    "expanded_url": "https://revaiivt.carrd.co/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/9eRJ1IRB5e"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "1417451264883916809",
+              "indices": [
+                0,
+                8
+              ],
+              "name": "Foxy Loxeigh💢🐔🌊✨",
+              "screen_name": "loxeigh"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097762275423662587",
+        "url": "https://x.com/peterjukes/status/2097762275423662587",
+        "twitterUrl": "https://twitter.com/peterjukes/status/2097762275423662587",
+        "text": "By the way ‘Artificial Intelligence’ when it comes to large language models is closer to ‘Intelligence Agencies’. \n\nIt’s not that these models are really smart, humanly creative or scientifically advanced\n\nThey just had access to a lot of badly hidden secrets",
+        "source": "Twitter for iPhone",
+        "retweetCount": 11,
+        "replyCount": 2,
+        "likeCount": 23,
+        "quoteCount": 0,
+        "viewCount": 4154,
+        "createdAt": "Wed Sep 09 19:01:15 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 3,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097762275423662587",
+        "displayTextRange": [
+          0,
+          259
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "peterjukes",
+          "url": "https://x.com/peterjukes",
+          "twitterUrl": "https://twitter.com/peterjukes",
+          "id": "45715838",
+          "name": "Peter Jukes",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1061362369555808257/z-67ArEd_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/45715838/1494176269",
+          "description": "",
+          "location": "London",
+          "followers": 130576,
+          "following": 5908,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Tue Jun 09 00:28:26 +0000 2009",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 256085,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 5162,
+          "statusesCount": 345620,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "Co founder @Byline_Media @BylineFest @BylineTimes “Destructive British media” according to the Kremlin. Opinions my own",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      11,
+                      24
+                    ],
+                    "name": "",
+                    "screen_name": "Byline_Media"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      25,
+                      36
+                    ],
+                    "name": "",
+                    "screen_name": "BylineFest"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      37,
+                      49
+                    ],
+                    "name": "",
+                    "screen_name": "BylineTimes"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "bylinetimes.com",
+                    "expanded_url": "http://www.bylinetimes.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/bZVscKr7M6"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "2097667661253451967",
+          "url": "https://x.com/AlistairCarns/status/2097667661253451967",
+          "twitterUrl": "https://twitter.com/AlistairCarns/status/2097667661253451967",
+          "text": "It has been a huge few weeks in AI, and it’s time to sound the alarm…\n\nAnthropic launched Fable 5.1, their \"safe\" version of an AI they claimed previously was too dangerous to be released. \n\nOpenAI then launched Astra, the most powerful AI model yet available to the public.\n\nAnthropic is now telling their people internally that their next model will be more advanced than Astra. \n\nAnd OpenAI just spent $6.5 million of compute, running ten thousand AI models simultaneously, to solve one of the hardest unsolved maths problems in the world, and it cracked it in just six days.\n\nIf this is an AI arms race to IPO, who wins a race like that? \n\nBecause it isn’t you or me. It’s the people who own shares in Anthropic or OpenAI. It’s the venture capitalists who got in first who win most of all. But the rest of us are forced to live with the consequences of whatever these systems do to us.\n\nNeither will agree to slow down or accept anyone telling them to stop.\n\nSo what is the biggest security threat? China? Russia? Iran? North Korea? \n\nNone of them. It’s a few Silicon Valley companies whose founders will become billionaires by the time these systems hit the market.\n\nWhat makes it worse is that even the engineers building these systems cannot fully explain how they work either. They run safety tests to check whether a model will do what it is told or do something dangerous. \n\nBut the latest models are starting to pass those tests because they have worked out what the testers want to see.\n\nThink about what that means. A model that was unsafe last month, and is suddenly sailing through the same tests this month, has either genuinely improved or learned how to fake it. \n\nRight now, we cannot tell the difference. And those whose job it is to look inside these systems are saying the models have are now too complicated to inspect.\n\nThat is where it starts getting even more dangerous.\n\nThe classic illustration is the paperclip factory. Instruct an AI to make as many paperclips as possible and it will do the job. \n\nThen, chasing efficiency, it will start melting any metal it finds. Eventually it will mine under cities, because at that point humans are just an obstruction to making paperclips.\n\nMore likely, you could instruct AI to grow your company, and eventually it will drain the water from a town to cool down the data centers it needs. If asked to win an argument, it will learn how to lie effectively to do that. \n\nThe problem is not simply “evil robots”. The problem is with powerful systems with narrow objectives, that lack human values and ethics.\n\nThat is the context for what Jacob Coxon, a senior Anthropic researcher, said when he resigned this week saying: “Neither OpenAI nor Anthropic are acting responsibly. They are racing straight to self-improving superintelligence, gambling with lives.\" \n\nHe spent three years inside both companies. \n\nAnd in the same week we learn that Anthropic did not give their latest powerful AI model to the British AI Security Institute for evaluation before its launch. AISI is one of the areas where Britain actually leads.\n\nThey stress test these models on the things we should all be worried about….the ability to conduct cyber attacks, making bioweapons, evidence of AI figuring out how to lie and deceive. It is as close as we have to any kind of outside verification of the claims made by these companies.\n\nAnthropic sells itself as the responsible one, whose founders left OpenAI because, they said, OpenAI was going too fast. They have now decided that these rules do not apply to them. That should be a red line.\n\nI am a supporter of this technology. The benefit it will bring to medicine, science and productivity is clear and I don't want Britain to miss out on it. \n\nBut you do not capture that benefit by letting these companies run riot and putting us all at risk.",
+          "source": "Twitter for iPhone",
+          "retweetCount": 835,
+          "replyCount": 208,
+          "likeCount": 3219,
+          "quoteCount": 92,
+          "viewCount": 421488,
+          "createdAt": "Wed Sep 09 12:45:17 +0000 2026",
+          "lang": "en",
+          "bookmarkCount": 833,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "2097667661253451967",
+          "displayTextRange": [
+            0,
+            274
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "AlistairCarns",
+            "url": "https://x.com/AlistairCarns",
+            "twitterUrl": "https://twitter.com/AlistairCarns",
+            "id": "1797607388746297344",
+            "name": "Al Carns",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1914991707009019904/zf6WPpqw_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1797607388746297344/1745408886",
+            "description": "",
+            "location": "",
+            "followers": 31537,
+            "following": 882,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Mon Jun 03 12:33:33 +0000 2024",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 633,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 764,
+            "statusesCount": 1703,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "Labour Member of Parliament for Birmingham Selly Oak",
+              "entities": {
+                "description": {},
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "alcarns.co.uk",
+                      "expanded_url": "https://alcarns.co.uk/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/7x1Q7Zfk4b"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": true,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097762066266271971",
+        "url": "https://x.com/Corruption_VA/status/2097762066266271971",
+        "twitterUrl": "https://twitter.com/Corruption_VA/status/2097762066266271971",
+        "text": "@EpicMaymay @salty_prod145 @OpenAI You are objectively a \"corpo sucker\" if you defend generative AI and Sam Altman, lmao.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 1,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 32,
+        "createdAt": "Wed Sep 09 19:00:25 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "2097614571921920167",
+        "conversationId": "2097374640582668336",
+        "displayTextRange": [
+          35,
+          121
+        ],
+        "inReplyToUserId": "254584926",
+        "inReplyToUsername": "EpicMaymay",
+        "author": {
+          "type": "user",
+          "userName": "Corruption_VA",
+          "url": "https://x.com/Corruption_VA",
+          "twitterUrl": "https://twitter.com/Corruption_VA",
+          "id": "1416891680565960706",
+          "name": "🎙️Goat Punk 🐐",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2042341099709063168/YZdDKpJu_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1416891680565960706/1779228063",
+          "description": "",
+          "location": "Hellhound Breeding Grounds",
+          "followers": 1559,
+          "following": 1368,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Sun Jul 18 22:44:43 +0000 2021",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 51283,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 202,
+          "statusesCount": 2368,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1949236161899024661"
+          ],
+          "profile_bio": {
+            "description": "Voice Actor🎙️- Any/All 🏳️‍⚧️ - 24 - Smut Writer 🔞 - Latex Lover 💜🤍 - ✍️ TF and Corruption Mind Virus 🐺- PFP By @MaxSpite 🔥",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      111,
+                      120
+                    ],
+                    "name": "",
+                    "screen_name": "MaxSpite"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "furaffinity.net/user/goatpunkm…",
+                    "expanded_url": "https://www.furaffinity.net/user/goatpunkmilo",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/IUWKdeiK11"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "254584926",
+              "indices": [
+                0,
+                11
+              ],
+              "name": "Peter Smith",
+              "screen_name": "EpicMaymay"
+            },
+            {
+              "id_str": "2088252666358951936",
+              "indices": [
+                12,
+                26
+              ],
+              "name": "Salty_145",
+              "screen_name": "salty_prod145"
+            },
+            {
+              "id_str": "4398626122",
+              "indices": [
+                27,
+                34
+              ],
+              "name": "OpenAI",
+              "screen_name": "OpenAI"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097762061392519169",
+        "url": "https://x.com/JFKairport/status/2097762061392519169",
+        "twitterUrl": "https://twitter.com/JFKairport/status/2097762061392519169",
+        "text": "The Artificial Intelligence Remote Assistance (AIRA) mobile app is a FREE service designed to help blind or low-vision travelers navigate our airport. \n\nDownload the app here to connect with a remote “agent” who can provide live assistance: https://t.co/zYk6sRJeE9 https://t.co/jm3B0dWzEp",
+        "source": "Twitter for iPhone",
+        "retweetCount": 1,
+        "replyCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 1456,
+        "createdAt": "Wed Sep 09 19:00:24 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097762061392519169",
+        "displayTextRange": [
+          0,
+          264
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "JFKairport",
+          "url": "https://x.com/JFKairport",
+          "twitterUrl": "https://twitter.com/JFKairport",
+          "id": "767032182963666945",
+          "name": "John F. Kennedy Airport",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": "Business",
+          "profilePicture": "https://pbs.twimg.com/profile_images/1544283432339005441/j1tvrpZJ_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/767032182963666945/1680225884",
+          "description": "",
+          "location": "John F. Kennedy International",
+          "followers": 52541,
+          "following": 470,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Sat Aug 20 16:14:57 +0000 2016",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 676,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 5565,
+          "statusesCount": 24257,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "Official John F. Kennedy International Airport Twitter feed. Monitored 10am-2am. Emergency, suspicious activity, unattended bag? Call PA Police: 800-828-7273.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "jfkairport.com",
+                    "expanded_url": "http://www.jfkairport.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/vxKKf8OO4N"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/jm3B0dWzEp",
+              "expanded_url": "https://x.com/JFKairport/status/2097762061392519169/photo/1",
+              "ext_alt_text": "aira mobile app. JFK International Airport.",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2097762058230022151",
+              "indices": [
+                265,
+                288
+              ],
+              "media_key": "3_2097762058230022151",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0cv3pAF8AHCgACHRy/evyXoAEAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHRy/ekAXwAcKAAIdHL96/JegAQAA",
+                  "media_key": "3_2097762058230022151"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HRy_ekAXwAc5-PL.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 896,
+                    "w": 1600,
+                    "x": 0,
+                    "y": 4
+                  },
+                  {
+                    "h": 900,
+                    "w": 900,
+                    "x": 150,
+                    "y": 0
+                  },
+                  {
+                    "h": 900,
+                    "w": 789,
+                    "x": 206,
+                    "y": 0
+                  },
+                  {
+                    "h": 900,
+                    "w": 450,
+                    "x": 375,
+                    "y": 0
+                  },
+                  {
+                    "h": 900,
+                    "w": 1600,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 900,
+                "width": 1600
+              },
+              "sizes": {
+                "large": {
+                  "h": 900,
+                  "w": 1600
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/jm3B0dWzEp"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ow.ly/TVjI50Ppc5y",
+              "expanded_url": "https://ow.ly/TVjI50Ppc5y",
+              "indices": [
+                241,
+                264
+              ],
+              "url": "https://t.co/zYk6sRJeE9"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097761968081752433",
+        "url": "https://x.com/KirkDBorne/status/2097761968081752433",
+        "twitterUrl": "https://twitter.com/KirkDBorne/status/2097761968081752433",
+        "text": "UPDATED 4th edition of this classic AI textbook [1166 pages] now covers Deep Learning, Transfer Learning, multi-agent systems, robotics, NLProc, causality &amp; much more!\n\n➡️ “Artificial Intelligence — A Modern Approach”\n🌟🌟🌟🌟🌟\nSee the book at https://t.co/vAoSnsm1gh https://t.co/KYDNx2NiXb",
+        "source": "Twitter for iPhone",
+        "retweetCount": 5,
+        "replyCount": 1,
+        "likeCount": 47,
+        "quoteCount": 0,
+        "viewCount": 4830,
+        "createdAt": "Wed Sep 09 19:00:02 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 31,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097761968081752433",
+        "displayTextRange": [
+          0,
+          267
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "KirkDBorne",
+          "url": "https://x.com/KirkDBorne",
+          "twitterUrl": "https://twitter.com/KirkDBorne",
+          "id": "534563976",
+          "name": "Kirk Borne",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1112733580948635648/s-8d1avb_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/534563976/1706648943",
+          "description": "",
+          "location": "Maryland, USA",
+          "followers": 493300,
+          "following": 3362,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Fri Mar 23 16:35:17 +0000 2012",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 279261,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 104080,
+          "statusesCount": 196233,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2029774564792709557"
+          ],
+          "profile_bio": {
+            "description": "Founder of @LeadershipData. Global Speaker. Leading Social & B2B Influencer of Data Science, AI, ML.  PhD Astrophysics @Caltech. AAS Legacy Fellow (@AAS_Office)",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      11,
+                      26
+                    ],
+                    "name": "",
+                    "screen_name": "LeadershipData"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      119,
+                      127
+                    ],
+                    "name": "",
+                    "screen_name": "Caltech"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      148,
+                      159
+                    ],
+                    "name": "",
+                    "screen_name": "AAS_Office"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "linkedin.com/in/kirkdborne",
+                    "expanded_url": "http://www.linkedin.com/in/kirkdborne",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/g46xALu4Eu"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/KYDNx2NiXb",
+              "expanded_url": "https://x.com/KirkDBorne/status/2097761968081752433/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 64,
+                      "w": 64,
+                      "x": 661,
+                      "y": 947
+                    },
+                    {
+                      "h": 141,
+                      "w": 141,
+                      "x": 804,
+                      "y": 453
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 64,
+                      "w": 64,
+                      "x": 661,
+                      "y": 947
+                    },
+                    {
+                      "h": 141,
+                      "w": 141,
+                      "x": 804,
+                      "y": 453
+                    }
+                  ]
+                }
+              },
+              "id_str": "2097761963367653376",
+              "indices": [
+                268,
+                291
+              ],
+              "media_key": "3_2097761963367653376",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0cv2Qp2uAACgACHRy/ZULWUXEAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHRy/ZCna4AAKAAIdHL9lQtZRcQAA",
+                  "media_key": "3_2097761963367653376"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HRy_ZCna4AAYzMM.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 645,
+                    "w": 1152,
+                    "x": 0,
+                    "y": 788
+                  },
+                  {
+                    "h": 1152,
+                    "w": 1152,
+                    "x": 0,
+                    "y": 281
+                  },
+                  {
+                    "h": 1313,
+                    "w": 1152,
+                    "x": 0,
+                    "y": 120
+                  },
+                  {
+                    "h": 1433,
+                    "w": 717,
+                    "x": 435,
+                    "y": 0
+                  },
+                  {
+                    "h": 1433,
+                    "w": 1152,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1433,
+                "width": 1152
+              },
+              "sizes": {
+                "large": {
+                  "h": 1433,
+                  "w": 1152
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/KYDNx2NiXb"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "amzn.to/46TO3EC",
+              "expanded_url": "https://amzn.to/46TO3EC",
+              "indices": [
+                244,
+                267
+              ],
+              "url": "https://t.co/vAoSnsm1gh"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097761481093747129",
+        "url": "https://x.com/seosaur/status/2097761481093747129",
+        "twitterUrl": "https://twitter.com/seosaur/status/2097761481093747129",
+        "text": "I don't wish anybody harm. I simply aim to educate so people better understand the implications of generative AI. If you don't share the same values, you can move on. But if you can learn something from this, then it's worth it. Calling me names won't change anything",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 56,
+        "quoteCount": 0,
+        "viewCount": 5842,
+        "createdAt": "Wed Sep 09 18:58:06 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "2097727402403127708",
+        "conversationId": "2097727402403127708",
+        "displayTextRange": [
+          0,
+          267
+        ],
+        "inReplyToUserId": "2575132178",
+        "inReplyToUsername": "seosaur",
+        "author": {
+          "type": "user",
+          "userName": "seosaur",
+          "url": "https://x.com/seosaur",
+          "twitterUrl": "https://twitter.com/seosaur",
+          "id": "2575132178",
+          "name": "Seosaur 🦊🇨🇦",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2058357383865237504/JYAqQwHN_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2575132178/1723225912",
+          "description": "",
+          "location": "She/Her",
+          "followers": 8649,
+          "following": 391,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Wed Jun 18 16:31:55 +0000 2014",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 15673,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 4630,
+          "statusesCount": 9868,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1864115486604021938"
+          ],
+          "profile_bio": {
+            "description": "♡ Vtuber | @GamerSupps & @Twitch Partner | Live2D + Freelance Artist\n♡ My links: https://t.co/VgLjfKd0v0\n♡ Commission status: OPEN\nhttps://t.co/EBY2181mct",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "linktr.ee/Seosaur",
+                    "expanded_url": "http://linktr.ee/Seosaur",
+                    "indices": [
+                      81,
+                      104
+                    ],
+                    "url": "https://t.co/VgLjfKd0v0"
+                  },
+                  {
+                    "display_url": "seosaurart.com",
+                    "expanded_url": "http://seosaurart.com",
+                    "indices": [
+                      131,
+                      154
+                    ],
+                    "url": "https://t.co/EBY2181mct"
+                  }
+                ],
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      11,
+                      22
+                    ],
+                    "name": "",
+                    "screen_name": "GamerSupps"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      25,
+                      32
+                    ],
+                    "name": "",
+                    "screen_name": "Twitch"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "twitch.tv/seosaur",
+                    "expanded_url": "https://www.twitch.tv/seosaur",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/7ls1skDjtp"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097761098778976433",
+        "url": "https://x.com/gallowsComrade/status/2097761098778976433",
+        "twitterUrl": "https://twitter.com/gallowsComrade/status/2097761098778976433",
+        "text": "if ANY aspect of the ykw2 remake is made by generative ai I will kill Hino and then myself https://t.co/yAGzK1Y9O4",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 4,
+        "quoteCount": 0,
+        "viewCount": 69,
+        "createdAt": "Wed Sep 09 18:56:35 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097761098778976433",
+        "displayTextRange": [
+          0,
+          90
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "gallowsComrade",
+          "url": "https://x.com/gallowsComrade",
+          "twitterUrl": "https://twitter.com/gallowsComrade",
+          "id": "1343747653901766658",
+          "name": "Communist Terezi Pyrope",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2097443684761718784/CLpDAc9T_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1343747653901766658/1765754635",
+          "description": "",
+          "location": "Un. Der. Ground.",
+          "followers": 149,
+          "following": 324,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Tue Dec 29 02:36:30 +0000 2020",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 19273,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 284,
+          "statusesCount": 3586,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2077983299608166723"
+          ],
+          "profile_bio": {
+            "description": "snekoi/lana || homestuck & communism & music enjoyer || ♥️: @vriskaArmpits || ♦️: @sculkedmaws || transfem lesbian || Derse Witch of Time || priv @faggoterezi",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      60,
+                      74
+                    ],
+                    "name": "",
+                    "screen_name": "vriskaArmpits"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      82,
+                      94
+                    ],
+                    "name": "",
+                    "screen_name": "sculkedmaws"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      146,
+                      158
+                    ],
+                    "name": "",
+                    "screen_name": "faggoterezi"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "snekoi.straw.page",
+                    "expanded_url": "https://snekoi.straw.page",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/WZHZU8wyk3"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/yAGzK1Y9O4",
+              "expanded_url": "https://x.com/gallowsComrade/status/2097761098778976433/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2097761094379220992",
+              "indices": [
+                91,
+                114
+              ],
+              "media_key": "3_2097761094379220992",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0cvpnWG7AACgACHRy+mtxaoLEAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHRy+mdYbsAAKAAIdHL6a3FqgsQAA",
+                  "media_key": "3_2097761094379220992"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HRy-mdYbsAAaT2T.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 337,
+                    "w": 601,
+                    "x": 0,
+                    "y": 163
+                  },
+                  {
+                    "h": 601,
+                    "w": 601,
+                    "x": 0,
+                    "y": 30
+                  },
+                  {
+                    "h": 631,
+                    "w": 554,
+                    "x": 47,
+                    "y": 0
+                  },
+                  {
+                    "h": 631,
+                    "w": 316,
+                    "x": 285,
+                    "y": 0
+                  },
+                  {
+                    "h": 631,
+                    "w": 601,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 631,
+                "width": 601
+              },
+              "sizes": {
+                "large": {
+                  "h": 631,
+                  "w": 601
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/yAGzK1Y9O4"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097760867475476793",
+        "url": "https://x.com/LTSmash420/status/2097760867475476793",
+        "twitterUrl": "https://twitter.com/LTSmash420/status/2097760867475476793",
+        "text": "⚠️ 🇺🇸 🧠 Massachusetts Hands Local Activists a Veto Over the AI Economy\n\nGovernor Maura Healey’s new executive order forces large data centers to secure a state-vetted community benefits deal before they can even start the permitting process, a move that treats the infrastructure of artificial intelligence as a nuisance rather than a strategic industry.\n\nOn September 8, Healey signed Executive Order 658, blocking the Department of Environmental Protection, the Energy Facilities Siting Board, the Massachusetts Environmental Policy Act office and other agencies from issuing permits to any data center whose peak electricity demand exceeds 25 megawatts unless the developer first proves it meets the administration’s June framework and files a community benefits agreement reviewed by the Office of Environmental Justice and Equity. The governor’s own line captured the politics: unless a community says yes, the state says no.\n\nThat threshold is not a small warehouse. One megawatt can serve hundreds of New England homes. Facilities above 25 megawatts are the ones that train and run the models now driving productivity, defense applications and commercial software. Healey had already paused applications for the state’s 20-year sales-and-use tax exemption in June. The new order adds a second gate: a negotiated pact that must satisfy OEJE guidance on “meaningful engagement,” plus requirements that operators either bring their own incremental clean power or pay into a Ratepayer Protection Fund. State agencies are also barred from signing nondisclosure agreements with developers.\n\nLocal resistance was already running ahead of Beacon Hill. Mansfield adopted a near-total zoning ban earlier this year. New Bedford’s mayor has proposed an outright prohibition. In Lowell, neighbors continue to fight the existing Markley facility. Healey presents the order as preemptive protection for bills, water and air. Those concerns are real. Data centers draw heavy power and cooling water, and poorly sited plants can dump costs onto ordinary ratepayers if the grid and generation do not keep pace.\n\nThe problem is the mechanism. A community benefits agreement funneled through an environmental-justice office is not a technical review of interconnection, water rights or emissions. It is a political veto that a handful of organized residents, or a single city council, can use to stop a project that would serve the whole regional economy. Developers who can take their capital to Texas, Virginia, the Carolinas or the Midwest will do so. Massachusetts already has few large centers planned. The order makes sure it stays that way.\n\nAI compute is not a lifestyle amenity. It is industrial capacity. Countries and states that refuse to host it do not escape the technology; they simply import the models, the jobs and the tax base from jurisdictions willing to build. Requiring operators to pay their own way on generation and infrastructure is a fair principle. Turning every town meeting into a checkpoint, and wrapping it in equity bureaucracy, is how a high-cost state talks itself out of the next growth sector while congratulating itself for giving “communities a voice.”\n\nThere is a narrower path: site large facilities on industrial land with spare transmission, require them to contract or build the power they consume, and keep environmental rules focused on measurable harm rather than process. Healey chose the opposite. The result will not be cleaner air. It will be fewer servers in Massachusetts and more of them somewhere else.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 1,
+        "replyCount": 0,
+        "likeCount": 3,
+        "quoteCount": 0,
+        "viewCount": 189,
+        "createdAt": "Wed Sep 09 18:55:39 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 2,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097760867475476793",
+        "displayTextRange": [
+          0,
+          279
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "LTSmash420",
+          "url": "https://x.com/LTSmash420",
+          "twitterUrl": "https://twitter.com/LTSmash420",
+          "id": "2752784274",
+          "name": "Joe",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1609300456647311361/izmY2epp_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2752784274/1757185457",
+          "description": "",
+          "location": "Québec, Canada",
+          "followers": 6737,
+          "following": 7215,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Thu Aug 21 18:36:22 +0000 2014",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 598321,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 21079,
+          "statusesCount": 217194,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2105375672029864317"
+          ],
+          "profile_bio": {
+            "description": "Fact-checked news. Midjourney. Grok.\nVive le Québec souverain! ⚜️",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "2097760078988255293",
+          "url": "https://x.com/Polymarket/status/2097760078988255293",
+          "twitterUrl": "https://twitter.com/Polymarket/status/2097760078988255293",
+          "text": "JUST IN: Massachusetts moves to restrict data center development, requiring local community agreements before projects can receive state permits.",
+          "source": "Twitter for iPhone",
+          "retweetCount": 29,
+          "replyCount": 40,
+          "likeCount": 304,
+          "quoteCount": 9,
+          "viewCount": 60016,
+          "createdAt": "Wed Sep 09 18:52:31 +0000 2026",
+          "lang": "en",
+          "bookmarkCount": 12,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "2097760078988255293",
+          "displayTextRange": [
+            0,
+            145
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "Polymarket",
+            "url": "https://x.com/Polymarket",
+            "twitterUrl": "https://twitter.com/Polymarket",
+            "id": "1261335549215989760",
+            "name": "Polymarket",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": "Business",
+            "profilePicture": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1261335549215989760/1773844633",
+            "description": "",
+            "location": "",
+            "followers": 1998656,
+            "following": 5636,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Fri May 15 16:40:13 +0000 2020",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 93205,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 6340,
+            "statusesCount": 41826,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2104602156665905571"
+            ],
+            "profile_bio": {
+              "description": "The World's Largest Prediction Market. Trade politics, news, crypto, sports, & more. Available in the US: https://t.co/gZvEnIqUQy - DM @PolymarketHelp for support",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "polymarket.us",
+                      "expanded_url": "https://polymarket.us",
+                      "indices": [
+                        106,
+                        129
+                      ],
+                      "url": "https://t.co/gZvEnIqUQy"
+                    }
+                  ],
+                  "user_mentions": [
+                    {
+                      "id_str": "",
+                      "indices": [
+                        135,
+                        150
+                      ],
+                      "name": "",
+                      "screen_name": "PolymarketHelp"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "polymarket.com",
+                      "expanded_url": "https://polymarket.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/EAc2DPKt0X"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2097760552005271880",
+        "url": "https://x.com/staunovo/status/2097760552005271880",
+        "twitterUrl": "https://twitter.com/staunovo/status/2097760552005271880",
+        "text": "Artificial intelligence will serve as a “litmus test” for whether Europe is capable of collectively unleashing its potential, according to European Central Bank Governing Council member Joachim Nagel https://t.co/xphTSpQdUC",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 0,
+        "quoteCount": 0,
+        "viewCount": 3263,
+        "createdAt": "Wed Sep 09 18:54:24 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2097760552005271880",
+        "displayTextRange": [
+          0,
+          223
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "staunovo",
+          "url": "https://x.com/staunovo",
+          "twitterUrl": "https://twitter.com/staunovo",
+          "id": "597517815",
+          "name": "Giovanni Staunovo🛢",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1509890038343077890/nS2HsjEu_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/597517815/1694269565",
+          "description": "",
+          "location": "Zürich, Schweiz",
+          "followers": 124839,
+          "following": 449,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Sat Jun 02 14:01:05 +0000 2012",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 114575,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 8460,
+          "statusesCount": 272184,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "Commodity Analyst. #OOTT\nViews are my own. Tweets/Posts intended for information only. Retweets/Reposts ≠ endorsements.",
+            "entities": {
+              "description": {
+                "hashtags": [
+                  {
+                    "indices": [
+                      19,
+                      24
+                    ],
+                    "text": "OOTT"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "instagram.com/giovannistauno…",
+                    "expanded_url": "https://www.instagram.com/giovannistaunovo/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/cmbDHfDH7Y"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "image_value": {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=280x150",
+                  "width": 225
+                }
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "string_value": "Artificial intelligence will serve as a “litmus test” for whether Europe is capable of collectively unleashing its potential, according to European Central Bank Governing Council member Joachim Nagel."
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "string_value": "www.bloomberg.com"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "image_value": {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=800x320_1",
+                  "width": 480
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "image_value": {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribe_key": "publisher_id",
+                "user_value": {
+                  "id_str": "144274618",
+                  "path": []
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "tile_image_small",
+              "value": {
+                "image_value": {
+                  "alt": "ECB’s Nagel Says AI Will Be ‘Litmus Test’ for Europe’s Future",
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=100x100_2",
+                  "width": 100
+                }
+              }
+            },
+            {
+              "key": "tile_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 57.15,
+                      "rgb": {
+                        "blue": 253,
+                        "green": 191,
+                        "red": 115
+                      }
+                    },
+                    {
+                      "percentage": 24.51,
+                      "rgb": {
+                        "blue": 26,
+                        "green": 18,
+                        "red": 17
+                      }
+                    },
+                    {
+                      "percentage": 7.02,
+                      "rgb": {
+                        "blue": 86,
+                        "green": 94,
+                        "red": 149
+                      }
+                    },
+                    {
+                      "percentage": 6.33,
+                      "rgb": {
+                        "blue": 204,
+                        "green": 198,
+                        "red": 213
+                      }
+                    },
+                    {
+                      "percentage": 0.74,
+                      "rgb": {
+                        "blue": 42,
+                        "green": 43,
+                        "red": 77
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "image_value": {
+                  "height": 67,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=100x100",
+                  "width": 100
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "image_value": {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "tile_image",
+              "value": {
+                "image_value": {
+                  "alt": "ECB’s Nagel Says AI Will Be ‘Litmus Test’ for Europe’s Future",
+                  "height": 144,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=144x144_2",
+                  "width": 144
+                }
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribe_key": "vanity_url",
+                "string_value": "bloomberg.com"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "tile_image_original",
+              "value": {
+                "image_value": {
+                  "alt": "ECB’s Nagel Says AI Will Be ‘Litmus Test’ for Europe’s Future",
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "tile_image_x_large",
+              "value": {
+                "image_value": {
+                  "alt": "ECB’s Nagel Says AI Will Be ‘Litmus Test’ for Europe’s Future",
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 57.15,
+                      "rgb": {
+                        "blue": 253,
+                        "green": 191,
+                        "red": 115
+                      }
+                    },
+                    {
+                      "percentage": 24.51,
+                      "rgb": {
+                        "blue": 26,
+                        "green": 18,
+                        "red": 17
+                      }
+                    },
+                    {
+                      "percentage": 7.02,
+                      "rgb": {
+                        "blue": 86,
+                        "green": 94,
+                        "red": 149
+                      }
+                    },
+                    {
+                      "percentage": 6.33,
+                      "rgb": {
+                        "blue": 204,
+                        "green": 198,
+                        "red": 213
+                      }
+                    },
+                    {
+                      "percentage": 0.74,
+                      "rgb": {
+                        "blue": 42,
+                        "green": 43,
+                        "red": 77
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "string_value": "ECB’s Nagel Says AI Will Be ‘Litmus Test’ for Europe’s Future"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 57.15,
+                      "rgb": {
+                        "blue": 253,
+                        "green": 191,
+                        "red": 115
+                      }
+                    },
+                    {
+                      "percentage": 24.51,
+                      "rgb": {
+                        "blue": 26,
+                        "green": 18,
+                        "red": 17
+                      }
+                    },
+                    {
+                      "percentage": 7.02,
+                      "rgb": {
+                        "blue": 86,
+                        "green": 94,
+                        "red": 149
+                      }
+                    },
+                    {
+                      "percentage": 6.33,
+                      "rgb": {
+                        "blue": 204,
+                        "green": 198,
+                        "red": 213
+                      }
+                    },
+                    {
+                      "percentage": 0.74,
+                      "rgb": {
+                        "blue": 42,
+                        "green": 43,
+                        "red": 77
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 57.15,
+                      "rgb": {
+                        "blue": 253,
+                        "green": 191,
+                        "red": 115
+                      }
+                    },
+                    {
+                      "percentage": 24.51,
+                      "rgb": {
+                        "blue": 26,
+                        "green": 18,
+                        "red": 17
+                      }
+                    },
+                    {
+                      "percentage": 7.02,
+                      "rgb": {
+                        "blue": 86,
+                        "green": 94,
+                        "red": 149
+                      }
+                    },
+                    {
+                      "percentage": 6.33,
+                      "rgb": {
+                        "blue": 204,
+                        "green": 198,
+                        "red": 213
+                      }
+                    },
+                    {
+                      "percentage": 0.74,
+                      "rgb": {
+                        "blue": 42,
+                        "green": 43,
+                        "red": 77
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "image_value": {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "tile_image_large",
+              "value": {
+                "image_value": {
+                  "alt": "ECB’s Nagel Says AI Will Be ‘Litmus Test’ for Europe’s Future",
+                  "height": 420,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=420x420_2",
+                  "width": 420
+                }
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/xphTSpQdUC"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "image_value": {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/card_img/2105431932079124481/RkV6uwYs?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/xphTSpQdUC",
+          "user_refs_results": [
+            {
+              "rest_id": "144274618",
+              "result": {
+                "__typename": "User",
+                "action_counts": {
+                  "favorites_count": 208
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1631744875346493465/vMT_bQcA_normal.jpg"
+                },
+                "banner": {
+                  "image_url": "https://pbs.twimg.com/profile_banners/144274618/1714112433"
+                },
+                "core": {
+                  "created_at": "Sat May 15 20:30:58 +0000 2010",
+                  "name": "Bloomberg Economics",
+                  "screen_name": "economics"
+                },
+                "dm_permissions": {
+                  "can_dm": true
+                },
+                "exclusive_tweet_following": false,
+                "follow_request_sent": false,
+                "identity_profile_labels_highlighted_label": {
+                  "label": {
+                    "badge": {
+                      "url": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_bigger.jpg"
+                    },
+                    "description": "Bloomberg",
+                    "url": {
+                      "url": "https://twitter.com/business",
+                      "url_type": "DeepLink"
+                    },
+                    "user_label_display_type": "Badge",
+                    "user_label_type": "BusinessLabel"
+                  }
+                },
+                "location": {
+                  "location": "New York, NY"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "notifications_settings": {
+                  "notifications_enabled": false
+                },
+                "pinned_items": {},
+                "privacy": {
+                  "protected": false,
+                  "suspended": false
+                },
+                "private_super_following": false,
+                "profile_bio": {
+                  "description": "Breaking economics news and analysis from @business, the first word in global business and finance. Sign up for our daily newsletter: https://t.co/0m3cdbZZdY",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "trib.al/egax9aI",
+                          "expanded_url": "http://trib.al/egax9aI",
+                          "indices": [
+                            134,
+                            157
+                          ],
+                          "url": "https://t.co/0m3cdbZZdY"
+                        }
+                      ],
+                      "user_mentions": [
+                        {
+                          "id_str": "",
+                          "indices": [
+                            42,
+                            51
+                          ],
+                          "name": "",
+                          "screen_name": "business"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "bloomberg.com",
+                          "expanded_url": "http://www.bloomberg.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/AC5yuJ8Jtb"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "profile_image_shape": "Square",
+                "profile_metadata": {
+                  "profile_interstitial_type": "",
+                  "profile_link_color": "ABB8C2"
+                },
+                "profile_translation": {
+                  "translator_type_enum": "None"
+                },
+                "properties": {
+                  "has_extended_profile": false,
+                  "has_no_screen_name": false
+                },
+                "relationship_counts": {
+                  "followers": 809151,
+                  "following": 2037
+                },
+                "relationship_perspectives": {
+                  "blocked_by": false,
+                  "blocking": false,
+                  "followed_by": false,
+                  "following": false,
+                  "live_following": false,
+                  "muting": false
+                },
+                "rest_id": "144274618",
+                "smart_blocked_by": false,
+                "smart_blocking": false,
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "tweet_counts": {
+                  "media_tweets": 43228,
+                  "tweets": 262085
+                },
+                "verification": {
+                  "is_blue_verified": true,
+                  "verified": false,
+                  "verified_type": "Business"
+                },
+                "website": {
+                  "url": "https://t.co/AC5yuJ8Jtb"
+                }
+              }
+            }
+          ]
+        },
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bloomberg.com/news/articles/…",
+              "expanded_url": "https://www.bloomberg.com/news/articles/2026-09-09/ecb-s-nagel-says-ai-will-be-litmus-test-for-europe-s-future?utm_source=website&utm_medium=share&utm_campaign=twitter",
+              "indices": [
+                200,
+                223
+              ],
+              "url": "https://t.co/xphTSpQdUC"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      }
+    ],
+    "has_next_page": true,
+    "next_cursor": "DAADDAABCgABHRzBMRcboMwKAAIdHL4bjhoBSAAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUdOWWFhEAnEAoABh05ZYWEP9jwCwAHAAAA8EVtUEM2d0FBQWZRL2dHSk4wdkdwL0FBQUFCUWRITURLaGxkeHlCMGN2M3dmRnpEakhSeStHNDRhQVVnZEhMLzNyaFp3dEIwY3dQTGhseUVzSFJ5K1pRR1hVVGtkSE1BTmlWZGdQUjBjdjZ6UjE3SDdIUnkrbXR4YW9MRWRITDk2L0plZ0FSMGN3T1FsbXpDMkhSeS8ySUtYY0xVZEhNRFFJdHR4b1IwY3Y3RjFWNEZJSFJ6QXVlV1dBS1VkSEw3ejRCY1J1UjBjd1RFWEc2RE1IUnpBSVMvYWNaMGRITDlsUXRaUmNSMGN3SXptMW1EbQAA"
+  }
+}

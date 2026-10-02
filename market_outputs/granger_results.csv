@@ -1,0 +1,6 @@
+test,target,predictor,lag,n_obs,f_stat,p_value
+Twitter sentiment -> AI basket return,ai_basket_return,twitter_sentiment,1,17,0.2999532021711956,0.5931910162407876
+Twitter sentiment -> AI excess return,ai_excess_return,twitter_sentiment,1,17,0.01994376697641235,0.8898591729559072
+Twitter sentiment -> SPY return,spy_return,twitter_sentiment,1,17,1.1949311703399768,0.2941800527722265
+Engagement-weighted Twitter sentiment -> AI excess return,ai_excess_return,engagement_weighted_sentiment,1,17,0.29488053273125,0.5962981331290377
+AI basket return -> Twitter sentiment,twitter_sentiment,ai_basket_return,1,17,0.40341984545117504,0.5363482653678711

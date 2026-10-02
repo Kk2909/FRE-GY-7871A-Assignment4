@@ -1,0 +1,4773 @@
+{
+  "requested_date_new_york": "2026-09-23",
+  "window_number": 1,
+  "window_start_new_york": "2026-09-23T02:57:00-04:00",
+  "window_end_new_york": "2026-09-23T03:57:00-04:00",
+  "credential_label": "key_2",
+  "query": "(\"artificial intelligence\" OR \"generative AI\") lang:en since_time:1790146620 until_time:1790150220",
+  "sampling": "First Latest page from a seeded one-hour window",
+  "retrieved_at_utc": "2026-10-02T01:12:46.430475+00:00",
+  "response": {
+    "tweets": [
+      {
+        "type": "tweet",
+        "id": "2102668264790737217",
+        "url": "https://x.com/Regolant/status/2102668264790737217",
+        "twitterUrl": "https://twitter.com/Regolant/status/2102668264790737217",
+        "text": "@Xao_lanVT @ChoujinVirus Generative AI in the art field does not contribute to any kind of research nor contribute the global economy either (although I bet you would love to fill your pockets that easily)",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 2,
+        "likeCount": 6,
+        "quoteCount": 0,
+        "viewCount": 157,
+        "createdAt": "Wed Sep 23 07:55:54 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "2102665077761655174",
+        "conversationId": "2102610425087250613",
+        "displayTextRange": [
+          25,
+          205
+        ],
+        "inReplyToUserId": "2067918826000539648",
+        "inReplyToUsername": "Xao_lanVT",
+        "author": {
+          "type": "user",
+          "userName": "Regolant",
+          "url": "https://x.com/Regolant",
+          "twitterUrl": "https://twitter.com/Regolant",
+          "id": "775177344139071488",
+          "name": "Regolant",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1594312842991263746/0wGMj3F8_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/775177344139071488/1593494855",
+          "description": "",
+          "location": "Palace of Earth Spirits??",
+          "followers": 576,
+          "following": 2397,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Mon Sep 12 03:40:55 +0000 2016",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 125066,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 4626,
+          "statusesCount": 127054,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1708702739675611268"
+          ],
+          "profile_bio": {
+            "description": "| Pizza is bae\n| If it's good, cool, or cute. I RT\n\nArt account: @Moero_3L\nBanner: @e_okami\nPfp: @JKTonshi",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      65,
+                      74
+                    ],
+                    "name": "",
+                    "screen_name": "Moero_3L"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      83,
+                      91
+                    ],
+                    "name": "",
+                    "screen_name": "e_okami"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      97,
+                      106
+                    ],
+                    "name": "",
+                    "screen_name": "JKTonshi"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "fanfiction.net/u/12454827/",
+                    "expanded_url": "https://www.fanfiction.net/u/12454827/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/l146P8QAfa"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "2067918826000539648",
+              "indices": [
+                0,
+                10
+              ],
+              "name": "xi lan 🍁🦇",
+              "screen_name": "Xao_lanVT"
+            },
+            {
+              "id_str": "1181725478060580864",
+              "indices": [
+                11,
+                24
+              ],
+              "name": "TheChoujinVirus",
+              "screen_name": "ChoujinVirus"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102667960838173031",
+        "url": "https://x.com/__DeerViVi/status/2102667960838173031",
+        "twitterUrl": "https://twitter.com/__DeerViVi/status/2102667960838173031",
+        "text": "@snoobertski Yes.. but in medicine, it's not generative ai they use!!!",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 183,
+        "createdAt": "Wed Sep 23 07:54:42 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "2102573457435447346",
+        "conversationId": "2102573457435447346",
+        "displayTextRange": [
+          13,
+          70
+        ],
+        "inReplyToUserId": "2003263206744293377",
+        "inReplyToUsername": "snoobertski",
+        "author": {
+          "type": "user",
+          "userName": "__DeerViVi",
+          "url": "https://x.com/__DeerViVi",
+          "twitterUrl": "https://twitter.com/__DeerViVi",
+          "id": "1489375304296861696",
+          "name": "xo, my cybernie 💙",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2059270091624308736/Dx8qAe8e_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1489375304296861696/1783931555",
+          "description": "",
+          "location": "🌻 she/her ",
+          "followers": 2149,
+          "following": 817,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Thu Feb 03 23:08:59 +0000 2022",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 171277,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 5978,
+          "statusesCount": 50478,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "maybe someday... th e lack of vilip won't bot her me anymore.. bu t ..that day is... not... today... i mis u vilip 😢 comebcak #viliptruther #vivikimlipselca",
+            "entities": {
+              "description": {
+                "hashtags": [
+                  {
+                    "indices": [
+                      126,
+                      139
+                    ],
+                    "text": "viliptruther"
+                  },
+                  {
+                    "indices": [
+                      140,
+                      156
+                    ],
+                    "text": "vivikimlipselca"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "20.yo.com",
+                    "expanded_url": "http://20.yo.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/1rgopRd9hD"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "2003263206744293377",
+              "indices": [
+                0,
+                12
+              ],
+              "name": "snoobertski",
+              "screen_name": "snoobertski"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102667276688507100",
+        "url": "https://x.com/e4mtweets/status/2102667276688507100",
+        "twitterUrl": "https://twitter.com/e4mtweets/status/2102667276688507100",
+        "text": "Radio, cinema, theatre and AI: Salone Mehta on storytelling in transition.\n\nMehta, Founder of The Artistes Studio, speaks about moving between creative mediums, the economics of theatre, and the threat artificial intelligence poses to voice artists.\n\nRead the full story - https://t.co/r0GQoyug0M\n\n#e4m #Storytelling #MediaInnovation #Radio #ArtificialIntelligence #ContentCreation\n\nIf it’s trending in marketing, it’s here - follow us on Instagram: https://t.co/thy5YdN0A1",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 1,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 364,
+        "createdAt": "Wed Sep 23 07:51:59 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102667276688507100",
+        "displayTextRange": [
+          0,
+          272
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "e4mtweets",
+          "url": "https://x.com/e4mtweets",
+          "twitterUrl": "https://twitter.com/e4mtweets",
+          "id": "122324271",
+          "name": "exchange4media group",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2056353286933147649/KvSMqsqD_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/122324271/1779107805",
+          "description": "",
+          "location": "Mumbai",
+          "followers": 39277,
+          "following": 16749,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Fri Mar 12 09:44:10 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 7838,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 27642,
+          "statusesCount": 94698,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1864519601025110310"
+          ],
+          "profile_bio": {
+            "description": "Get real-time updates and insights from the Advertising, Marketing & Media world.  Follow us on social media - https://t.co/R1JGQ6fi8j",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "linktr.ee/exchange4media",
+                    "expanded_url": "https://linktr.ee/exchange4media",
+                    "indices": [
+                      111,
+                      134
+                    ],
+                    "url": "https://t.co/R1JGQ6fi8j"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "exchange4media.com",
+                    "expanded_url": "http://www.exchange4media.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/SRCmwgfKFj"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/G6BiVdSARG",
+              "expanded_url": "https://x.com/e4mtweets/status/2102667276688507100/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 88,
+                      "w": 88,
+                      "x": 863,
+                      "y": 466
+                    },
+                    {
+                      "h": 408,
+                      "w": 408,
+                      "x": 458,
+                      "y": 317
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 88,
+                      "w": 88,
+                      "x": 863,
+                      "y": 466
+                    },
+                    {
+                      "h": 408,
+                      "w": 408,
+                      "x": 458,
+                      "y": 317
+                    }
+                  ]
+                }
+              },
+              "id_str": "2102666938753417216",
+              "indices": [
+                273,
+                296
+              ],
+              "media_key": "3_2102666938753417216",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0uLHC9WwAACgACHS4sv2vbQNwAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS4scL1bAAAKAAIdLiy/a9tA3AAA",
+                  "media_key": "3_2102666938753417216"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS4scL1bAAAT8NP.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 605,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 744
+                  },
+                  {
+                    "h": 1080,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 270
+                  },
+                  {
+                    "h": 1231,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 119
+                  },
+                  {
+                    "h": 1350,
+                    "w": 675,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1350,
+                    "w": 1080,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1350,
+                "width": 1080
+              },
+              "sizes": {
+                "large": {
+                  "h": 1350,
+                  "w": 1080
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/G6BiVdSARG"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                298,
+                302
+              ],
+              "text": "e4m"
+            },
+            {
+              "indices": [
+                303,
+                316
+              ],
+              "text": "Storytelling"
+            },
+            {
+              "indices": [
+                317,
+                333
+              ],
+              "text": "MediaInnovation"
+            },
+            {
+              "indices": [
+                334,
+                340
+              ],
+              "text": "Radio"
+            },
+            {
+              "indices": [
+                341,
+                364
+              ],
+              "text": "ArtificialIntelligence"
+            },
+            {
+              "indices": [
+                365,
+                381
+              ],
+              "text": "ContentCreation"
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "exchange4media.com/media-others-n…",
+              "expanded_url": "https://www.exchange4media.com/media-others-news/radio-cinema-theatre-and-ai-salone-mehta-on-storytelling-in-transition-158486.html",
+              "indices": [
+                273,
+                296
+              ],
+              "url": "https://t.co/r0GQoyug0M"
+            },
+            {
+              "display_url": "instagram.com/exchange4media…",
+              "expanded_url": "https://www.instagram.com/exchange4media?igsh=ZjZ5MW5sM",
+              "indices": [
+                450,
+                473
+              ],
+              "url": "https://t.co/thy5YdN0A1"
+            }
+          ],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102667104298369221",
+        "url": "https://x.com/wfaspl/status/2102667104298369221",
+        "twitterUrl": "https://twitter.com/wfaspl/status/2102667104298369221",
+        "text": "@gamingguru456 in case anyone is worried its not upscaled with generative ai its algorithmic ai, probably something like waifu2x, still looks ugly sometimes",
+        "source": "Twitter for iPhone",
+        "retweetCount": 1,
+        "replyCount": 1,
+        "likeCount": 52,
+        "quoteCount": 0,
+        "viewCount": 4395,
+        "createdAt": "Wed Sep 23 07:51:17 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 4,
+        "isReply": true,
+        "inReplyToId": "2102546651428659663",
+        "conversationId": "2102546651428659663",
+        "displayTextRange": [
+          15,
+          156
+        ],
+        "inReplyToUserId": "782634752100618240",
+        "inReplyToUsername": "gamingguru456",
+        "author": {
+          "type": "user",
+          "userName": "wfaspl",
+          "url": "https://x.com/wfaspl",
+          "twitterUrl": "https://twitter.com/wfaspl",
+          "id": "1991302235062689792",
+          "name": "grognard 🏳️‍⚧️",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2008918942375444480/s_CUq2B1_normal.jpg",
+          "coverPicture": "",
+          "description": "",
+          "location": "",
+          "followers": 61,
+          "following": 55,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Thu Nov 20 00:27:19 +0000 2025",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 20883,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 357,
+          "statusesCount": 2607,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "LVL 40, proud parent to 5 lovely sons & 1 incredible daughter, nautical engineer, pioneer in the movement of #BlackExcellence\n\nHRT: 19/1/2038",
+            "entities": {
+              "description": {
+                "hashtags": [
+                  {
+                    "indices": [
+                      109,
+                      125
+                    ],
+                    "text": "BlackExcellence"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "782634752100618240",
+              "indices": [
+                0,
+                14
+              ],
+              "name": "Windy 🇵🇸 🍉@ DR2: Goodbye Despair 🏝️",
+              "screen_name": "gamingguru456"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102667041631252948",
+        "url": "https://x.com/ExperimentWorld/status/2102667041631252948",
+        "twitterUrl": "https://twitter.com/ExperimentWorld/status/2102667041631252948",
+        "text": "@YourAnonCentral Incompetent. When you hire people based on fake loyality instead of actual skills then you’re just asking for a destiny for demise. This will be a very important key distinction for surviving advanced Artificial Intelligence or “super Intelligence”",
+        "source": "Twitter for iPhone",
+        "retweetCount": 2,
+        "replyCount": 0,
+        "likeCount": 40,
+        "quoteCount": 0,
+        "viewCount": 1875,
+        "createdAt": "Wed Sep 23 07:51:03 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": true,
+        "inReplyToId": "2102663594643173638",
+        "conversationId": "2102663594643173638",
+        "displayTextRange": [
+          17,
+          265
+        ],
+        "inReplyToUserId": "373157754",
+        "inReplyToUsername": "YourAnonCentral",
+        "author": {
+          "type": "user",
+          "userName": "ExperimentWorld",
+          "url": "https://x.com/ExperimentWorld",
+          "twitterUrl": "https://twitter.com/ExperimentWorld",
+          "id": "91846176",
+          "name": "Simona",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1757969474148618240/b5Dqhqb2_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/91846176/1629869183",
+          "description": "",
+          "location": "West Vancouver, British Columbia",
+          "followers": 2268,
+          "following": 1209,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Sun Nov 22 19:00:28 +0000 2009",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 12716,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 18318,
+          "statusesCount": 97009,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "373157754",
+              "indices": [
+                0,
+                16
+              ],
+              "name": "Anonymous",
+              "screen_name": "YourAnonCentral"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102667025160278321",
+        "url": "https://x.com/BusinessTodayM1/status/2102667025160278321",
+        "twitterUrl": "https://twitter.com/BusinessTodayM1/status/2102667025160278321",
+        "text": "Finance professionals must strengthen their artificial intelligence (AI) and data capabilities while maintaining professional judgement and ethical oversight as technology takes on a greater role in business decision-making, according to the Association of Chartered Certified Accountants (ACCA). https://t.co/IHaJxI0ugE",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 43,
+        "createdAt": "Wed Sep 23 07:50:59 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102667025160278321",
+        "displayTextRange": [
+          0,
+          276
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "BusinessTodayM1",
+          "url": "https://x.com/BusinessTodayM1",
+          "twitterUrl": "https://twitter.com/BusinessTodayM1",
+          "id": "1246652055281790976",
+          "name": "BusinessToday Malaysia",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2100859898129207296/Aw9WV1PV_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1246652055281790976/1671878101",
+          "description": "",
+          "location": "Kuala Lumpur ",
+          "followers": 1930,
+          "following": 71,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Sun Apr 05 04:13:12 +0000 2020",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 81,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 1432,
+          "statusesCount": 71275,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2079835731422552071"
+          ],
+          "profile_bio": {
+            "description": "BusinessToday offers comprehensive business news with up to date facts both locally and globally.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "businesstoday.com.my",
+                    "expanded_url": "https://www.businesstoday.com.my/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/UVf5ooKjsT"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "image_value": {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=280x150",
+                  "width": 225
+                }
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "string_value": "Finance professionals must strengthen their artificial intelligence (AI) and data capabilities while maintaining professional judgement and ethical oversight as technology takes on a greater role in..."
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "string_value": "www.businesstoday.com.my"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "image_value": {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=800x320_1",
+                  "width": 480
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "image_value": {
+                  "height": 683,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=orig",
+                  "width": 1024
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "image_value": {
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "image_value": {
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "image_value": {
+                  "height": 67,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=100x100",
+                  "width": 100
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 683,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=png&name=2048x2048_2_exp",
+                  "width": 1024
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "image_value": {
+                  "height": 683,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=orig",
+                  "width": 1024
+                }
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribe_key": "vanity_url",
+                "string_value": "businesstoday.com.my"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 35.16,
+                      "rgb": {
+                        "blue": 66,
+                        "green": 97,
+                        "red": 152
+                      }
+                    },
+                    {
+                      "percentage": 30.92,
+                      "rgb": {
+                        "blue": 36,
+                        "green": 34,
+                        "red": 32
+                      }
+                    },
+                    {
+                      "percentage": 20.62,
+                      "rgb": {
+                        "blue": 174,
+                        "green": 181,
+                        "red": 184
+                      }
+                    },
+                    {
+                      "percentage": 2.94,
+                      "rgb": {
+                        "blue": 57,
+                        "green": 77,
+                        "red": 88
+                      }
+                    },
+                    {
+                      "percentage": 1.63,
+                      "rgb": {
+                        "blue": 226,
+                        "green": 211,
+                        "red": 195
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "string_value": "AI Will Not Replace Finance Professionals, ACCA"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 35.16,
+                      "rgb": {
+                        "blue": 66,
+                        "green": 97,
+                        "red": 152
+                      }
+                    },
+                    {
+                      "percentage": 30.92,
+                      "rgb": {
+                        "blue": 36,
+                        "green": 34,
+                        "red": 32
+                      }
+                    },
+                    {
+                      "percentage": 20.62,
+                      "rgb": {
+                        "blue": 174,
+                        "green": 181,
+                        "red": 184
+                      }
+                    },
+                    {
+                      "percentage": 2.94,
+                      "rgb": {
+                        "blue": 57,
+                        "green": 77,
+                        "red": 88
+                      }
+                    },
+                    {
+                      "percentage": 1.63,
+                      "rgb": {
+                        "blue": 226,
+                        "green": 211,
+                        "red": 195
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "image_value": {
+                  "height": 683,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=png&name=2048x2048_2_exp",
+                  "width": 1024
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "image_value": {
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 35.16,
+                      "rgb": {
+                        "blue": 66,
+                        "green": 97,
+                        "red": 152
+                      }
+                    },
+                    {
+                      "percentage": 30.92,
+                      "rgb": {
+                        "blue": 36,
+                        "green": 34,
+                        "red": 32
+                      }
+                    },
+                    {
+                      "percentage": 20.62,
+                      "rgb": {
+                        "blue": 174,
+                        "green": 181,
+                        "red": 184
+                      }
+                    },
+                    {
+                      "percentage": 2.94,
+                      "rgb": {
+                        "blue": 57,
+                        "green": 77,
+                        "red": 88
+                      }
+                    },
+                    {
+                      "percentage": 1.63,
+                      "rgb": {
+                        "blue": 226,
+                        "green": 211,
+                        "red": 195
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "image_value": {
+                  "height": 683,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=png&name=2048x2048_2_exp",
+                  "width": 1024
+                }
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/IHaJxI0ugE"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "image_value": {
+                  "height": 683,
+                  "url": "https://pbs.twimg.com/card_img/2105203840828178432/vp-JUo0u?format=jpg&name=orig",
+                  "width": 1024
+                }
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/IHaJxI0ugE",
+          "user_refs_results": []
+        },
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "businesstoday.com.my/2026/09/23/ai-…",
+              "expanded_url": "https://www.businesstoday.com.my/2026/09/23/ai-will-not-replace-finance-professionals-acca/",
+              "indices": [
+                297,
+                320
+              ],
+              "url": "https://t.co/IHaJxI0ugE"
+            }
+          ],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102666911909584993",
+        "url": "https://x.com/SN__Ivan/status/2102666911909584993",
+        "twitterUrl": "https://twitter.com/SN__Ivan/status/2102666911909584993",
+        "text": "Except Generative AI as a general concept isnt used tor research.\nResearch usually use THEIR OWN controlled and regulated AI, and a lot of the times its not even generative and its algorythmic.\nYall should just shut yo bitchasses up cause now you look like a fucking CLOWN",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 3,
+        "likeCount": 24,
+        "quoteCount": 0,
+        "viewCount": 695,
+        "createdAt": "Wed Sep 23 07:50:32 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102666911909584993",
+        "displayTextRange": [
+          0,
+          272
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "SN__Ivan",
+          "url": "https://x.com/SN__Ivan",
+          "twitterUrl": "https://twitter.com/SN__Ivan",
+          "id": "1273300782352420865",
+          "name": "Ivan Ravenous as fuck",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2072082508934512640/LRI-sdW2_normal.png",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1273300782352420865/1742788793",
+          "description": "",
+          "location": "País Valencià",
+          "followers": 579,
+          "following": 557,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Wed Jun 17 17:05:47 +0000 2020",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 31850,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 3940,
+          "statusesCount": 46148,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1561133039459209219"
+          ],
+          "profile_bio": {
+            "description": "Aro. Washed up Metroid and Crash speedrunner. Dev. Into Fire Emblem, SMT, KH, FromSoft, FGs and all that. Competitor since i was 14.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "twitch.tv/sn_ivan",
+                    "expanded_url": "http://twitch.tv/sn_ivan",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/72GA6yUUPr"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "2102491015131115678",
+          "url": "https://x.com/BernieAsksAI/status/2102491015131115678",
+          "twitterUrl": "https://twitter.com/BernieAsksAI/status/2102491015131115678",
+          "text": "Antis Be like: https://t.co/GXsleP8R4s",
+          "source": "Twitter for iPhone",
+          "retweetCount": 235,
+          "replyCount": 1405,
+          "likeCount": 2207,
+          "quoteCount": 1214,
+          "viewCount": 7195960,
+          "createdAt": "Tue Sep 22 20:11:35 +0000 2026",
+          "lang": "en",
+          "bookmarkCount": 287,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "2102491015131115678",
+          "displayTextRange": [
+            0,
+            14
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "BernieAsksAI",
+            "url": "https://x.com/BernieAsksAI",
+            "twitterUrl": "https://twitter.com/BernieAsksAI",
+            "id": "1953573183711588353",
+            "name": "BernieAsksAI",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/2099744105341370368/Y96tGrb6_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1953573183711588353/1789452981",
+            "description": "",
+            "location": "USA",
+            "followers": 635,
+            "following": 405,
+            "status": "",
+            "canDm": true,
+            "canMediaTag": true,
+            "createdAt": "Thu Aug 07 21:45:28 +0000 2025",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 7564,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2515,
+            "statusesCount": 8340,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [
+              "2105383348239773843"
+            ],
+            "profile_bio": {
+              "description": "Just a guy making Grok answer all of his questions! C'mon, Grok, help a guy out! I aim to be Grok's number one annoying companion!  (Not affiliated with xAI)",
+              "entities": {
+                "description": {}
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/GXsleP8R4s",
+                "expanded_url": "https://x.com/BernieAsksAI/status/2102491015131115678/photo/1",
+                "ext_master_playlist_only": [],
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "ext_playlists": [],
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 58,
+                        "w": 58,
+                        "x": 562,
+                        "y": 386
+                      },
+                      {
+                        "h": 80,
+                        "w": 80,
+                        "x": 690,
+                        "y": 701
+                      },
+                      {
+                        "h": 121,
+                        "w": 121,
+                        "x": 684,
+                        "y": 120
+                      },
+                      {
+                        "h": 127,
+                        "w": 127,
+                        "x": 678,
+                        "y": 486
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 58,
+                        "w": 58,
+                        "x": 562,
+                        "y": 386
+                      },
+                      {
+                        "h": 80,
+                        "w": 80,
+                        "x": 690,
+                        "y": 701
+                      },
+                      {
+                        "h": 121,
+                        "w": 121,
+                        "x": 684,
+                        "y": 120
+                      },
+                      {
+                        "h": 127,
+                        "w": 127,
+                        "x": 678,
+                        "y": 486
+                      }
+                    ]
+                  }
+                },
+                "id_str": "2102491007258447872",
+                "indices": [
+                  15,
+                  38
+                ],
+                "media_key": "3_2102491007258447872",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0tjG5/F9AACgACHS2McFRXMJ4AAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABHS2Mbn8X0AAKAAIdLYxwVFcwngAA",
+                    "media_key": "3_2102491007258447872"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/HS2Mbn8X0AAqTzL.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 702,
+                      "w": 1254,
+                      "x": 0,
+                      "y": 370
+                    },
+                    {
+                      "h": 1254,
+                      "w": 1254,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1254,
+                      "w": 1100,
+                      "x": 154,
+                      "y": 0
+                    },
+                    {
+                      "h": 1254,
+                      "w": 627,
+                      "x": 627,
+                      "y": 0
+                    },
+                    {
+                      "h": 1254,
+                      "w": 1254,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1254,
+                  "width": 1254
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1254,
+                    "w": 1254
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/GXsleP8R4s"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "communityInfo": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102666882687873131",
+        "url": "https://x.com/channelstv/status/2102666882687873131",
+        "twitterUrl": "https://twitter.com/channelstv/status/2102666882687873131",
+        "text": "UNGA: Industry Leaders Set To Brief UN Council As AI Risks, Iran War Take Center Stage Today\n\nThe future of artificial intelligence and the stalled US war against Iran, with its ripple effect on the global economy, are expected to dominate the UN gathering of world leaders Wednesday.\n\nhttps://t.co/dv2iQyLBbi",
+        "source": "Twitter for iPhone",
+        "retweetCount": 3,
+        "replyCount": 2,
+        "likeCount": 21,
+        "quoteCount": 0,
+        "viewCount": 24054,
+        "createdAt": "Wed Sep 23 07:50:25 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102666882687873131",
+        "displayTextRange": [
+          0,
+          273
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "channelstv",
+          "url": "https://x.com/channelstv",
+          "twitterUrl": "https://twitter.com/channelstv",
+          "id": "125346858",
+          "name": "Channels Television",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2011033273271459840/1VAHnJ6o_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/125346858/1768302672",
+          "description": "",
+          "location": "Nigeria",
+          "followers": 7422095,
+          "following": 178,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Mon Mar 22 14:29:10 +0000 2010",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 4803,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 166602,
+          "statusesCount": 250832,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "Home for the news.\nKeeping you informed on all sides.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "channelstv.com",
+                    "expanded_url": "https://www.channelstv.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/8UPmxt8H3Y"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/w1j6xEIKf6",
+              "expanded_url": "https://x.com/channelstv/status/2102666882687873131/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2102666837305458688",
+              "indices": [
+                274,
+                297
+              ],
+              "media_key": "3_2102666837305458688",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0uLFkelgAACgACHS4sY6+WsGsAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS4sWR6WAAAKAAIdLixjr5awawAA",
+                  "media_key": "3_2102666837305458688"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS4sWR6WAAAscT6.png",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 350,
+                    "w": 625,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 350,
+                    "w": 350,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 350,
+                    "w": 307,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 350,
+                    "w": 175,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 350,
+                    "w": 650,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 350,
+                "width": 650
+              },
+              "sizes": {
+                "large": {
+                  "h": 350,
+                  "w": 650
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/w1j6xEIKf6"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "channelstv.com/2026/09/23/ung…",
+              "expanded_url": "https://www.channelstv.com/2026/09/23/unga-industry-leaders-set-to-brief-un-council-as-ai-risks-iran-war-take-center-stage-today/",
+              "indices": [
+                286,
+                309
+              ],
+              "url": "https://t.co/dv2iQyLBbi"
+            }
+          ],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102666818267533515",
+        "url": "https://x.com/AishaNakit45823/status/2102666818267533515",
+        "twitterUrl": "https://twitter.com/AishaNakit45823/status/2102666818267533515",
+        "text": "On September 27th, Uganda will join the global community to commemorate World Tourism Day under the theme, “Digital Agenda and Artificial Intelligence to Redesign Tourism.” \n\nThis year’s celebrations emphasize how digital innovation and AI can build a more competitive, inclusive, and innovative tourism sector, creating new economic opportunities for local businesses and communities.\n\nLet's harness technology to protect our heritage, uplift hospitality, and showcase the unparalleled beauty of the Pearl of Africa to the world. \n\n #WTD2026 | #ExploreUganda",
+        "source": "Twitter for iPhone",
+        "retweetCount": 23,
+        "replyCount": 13,
+        "likeCount": 31,
+        "quoteCount": 2,
+        "viewCount": 523,
+        "createdAt": "Wed Sep 23 07:50:09 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 2,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102666818267533515",
+        "displayTextRange": [
+          0,
+          280
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "AishaNakit45823",
+          "url": "https://x.com/AishaNakit45823",
+          "twitterUrl": "https://twitter.com/AishaNakit45823",
+          "id": "1818905267536314368",
+          "name": "Nakitende Aisha",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1951713785053376512/WPKs3ETn_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1818905267536314368/1773950410",
+          "description": "",
+          "location": "Kawmpe Plaza   +256 701654638",
+          "followers": 13089,
+          "following": 9781,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Thu Aug 01 07:03:36 +0000 2024",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 284802,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 2686,
+          "statusesCount": 330037,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2105704295161307633"
+          ],
+          "profile_bio": {
+            "description": "Life coach, boy child advocate, counselor en therapist so passionate about changing mentality & lives. https://t.co/nQcQvpnRJZ",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtu.be/LUD89NU4hHE?si…",
+                    "expanded_url": "https://youtu.be/LUD89NU4hHE?si=D7w_6SacseC3GMdy",
+                    "indices": [
+                      103,
+                      126
+                    ],
+                    "url": "https://t.co/nQcQvpnRJZ"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/AqDYbnPiwf",
+              "expanded_url": "https://x.com/AishaNakit45823/status/2102666818267533515/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "all": {
+                  "tags": [
+                    {
+                      "name": "Uganda Tourism Board",
+                      "screen_name": "TourismBoardUg",
+                      "type": "user",
+                      "user_id": "1114182063182237697"
+                    },
+                    {
+                      "name": "Explore Uganda 🇺🇬",
+                      "screen_name": "ExploreUganda",
+                      "type": "user",
+                      "user_id": "39031835"
+                    },
+                    {
+                      "name": "Ministry of Tourism-Uganda",
+                      "screen_name": "MTWAUganda",
+                      "type": "user",
+                      "user_id": "2306214684"
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2102666809287528448",
+              "indices": [
+                281,
+                304
+              ],
+              "media_key": "3_2102666809287528448",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0uLFKYllAACgACHS4sVK/WUMsAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS4sUpiWUAAKAAIdLixUr9ZQywAA",
+                  "media_key": "3_2102666809287528448"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS4sUpiWUAAf7vt.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 573,
+                    "w": 1024,
+                    "x": 0,
+                    "y": 578
+                  },
+                  {
+                    "h": 1024,
+                    "w": 1024,
+                    "x": 0,
+                    "y": 256
+                  },
+                  {
+                    "h": 1167,
+                    "w": 1024,
+                    "x": 0,
+                    "y": 113
+                  },
+                  {
+                    "h": 1280,
+                    "w": 640,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1280,
+                    "w": 1024,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1280,
+                "width": 1024
+              },
+              "sizes": {
+                "large": {
+                  "h": 1280,
+                  "w": 1024
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/AqDYbnPiwf"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                534,
+                542
+              ],
+              "text": "WTD2026"
+            },
+            {
+              "indices": [
+                545,
+                559
+              ],
+              "text": "ExploreUganda"
+            }
+          ],
+          "symbols": [],
+          "timestamps": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102666716958560335",
+        "url": "https://x.com/NickHintonn/status/2102666716958560335",
+        "twitterUrl": "https://twitter.com/NickHintonn/status/2102666716958560335",
+        "text": "The artificial intelligence takeover will be artificial. https://t.co/7ZJ6h5mnS9",
+        "source": "Twitter for iPhone",
+        "retweetCount": 23,
+        "replyCount": 6,
+        "likeCount": 147,
+        "quoteCount": 0,
+        "viewCount": 9120,
+        "createdAt": "Wed Sep 23 07:49:45 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 35,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102666716958560335",
+        "displayTextRange": [
+          0,
+          56
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "NickHintonn",
+          "url": "https://x.com/NickHintonn",
+          "twitterUrl": "https://twitter.com/NickHintonn",
+          "id": "323908811",
+          "name": "Nick Hinton",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1979401027607478272/iUD8rN1s_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/323908811/1752900704",
+          "description": "",
+          "location": "United States",
+          "followers": 129303,
+          "following": 2995,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Sat Jun 25 16:59:20 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 92357,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 10518,
+          "statusesCount": 61397,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1691907851063541786"
+          ],
+          "profile_bio": {
+            "description": "just a normal guy 🙏🏻☦️",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "instagram.com/nickhintonn",
+                    "expanded_url": "http://instagram.com/nickhintonn",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/0XU6B3mAHi"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/7ZJ6h5mnS9",
+              "expanded_url": "https://x.com/NickHintonn/status/2102666716958560335/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 75,
+                      "w": 75,
+                      "x": 297,
+                      "y": 100
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 75,
+                      "w": 75,
+                      "x": 297,
+                      "y": 100
+                    }
+                  ]
+                }
+              },
+              "id_str": "2102666704132136961",
+              "indices": [
+                57,
+                80
+              ],
+              "media_key": "3_2102666704132136961",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0uLDoc1mABCgACHS4sPRlaEE8AAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS4sOhzWYAEKAAIdLiw9GVoQTwAA",
+                  "media_key": "3_2102666704132136961"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS4sOhzWYAEiXdr.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 538,
+                    "w": 960,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 960,
+                    "w": 960,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 962,
+                    "w": 844,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 962,
+                    "w": 481,
+                    "x": 72,
+                    "y": 0
+                  },
+                  {
+                    "h": 962,
+                    "w": 960,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 962,
+                "width": 960
+              },
+              "sizes": {
+                "large": {
+                  "h": 962,
+                  "w": 960
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/7ZJ6h5mnS9"
+            },
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/7ZJ6h5mnS9",
+              "expanded_url": "https://x.com/NickHintonn/status/2102666716958560335/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 178,
+                      "w": 178,
+                      "x": 36,
+                      "y": 269
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 178,
+                      "w": 178,
+                      "x": 36,
+                      "y": 269
+                    }
+                  ]
+                }
+              },
+              "id_str": "2102666704140529664",
+              "indices": [
+                57,
+                80
+              ],
+              "media_key": "3_2102666704140529664",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0uLDodVnAACgACHS4sPRlaEE8AAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS4sOh1WcAAKAAIdLiw9GVoQTwAA",
+                  "media_key": "3_2102666704140529664"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS4sOh1WcAApKLu.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 722,
+                    "w": 1290,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 731,
+                    "w": 731,
+                    "x": 559,
+                    "y": 0
+                  },
+                  {
+                    "h": 731,
+                    "w": 641,
+                    "x": 615,
+                    "y": 0
+                  },
+                  {
+                    "h": 731,
+                    "w": 366,
+                    "x": 752,
+                    "y": 0
+                  },
+                  {
+                    "h": 731,
+                    "w": 1290,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 731,
+                "width": 1290
+              },
+              "sizes": {
+                "large": {
+                  "h": 731,
+                  "w": 1290
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/7ZJ6h5mnS9"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102666519033582023",
+        "url": "https://x.com/lizz3yve/status/2102666519033582023",
+        "twitterUrl": "https://twitter.com/lizz3yve/status/2102666519033582023",
+        "text": "Anyone defending or justifying generative AI will not get an interaction with me. Sincerely, go away.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 6,
+        "quoteCount": 0,
+        "viewCount": 187,
+        "createdAt": "Wed Sep 23 07:48:58 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102666519033582023",
+        "displayTextRange": [
+          0,
+          101
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "lizz3yve",
+          "url": "https://x.com/lizz3yve",
+          "twitterUrl": "https://twitter.com/lizz3yve",
+          "id": "1461851971552522247",
+          "name": "lizz🌴",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2091190770749378560/1ygheSSq_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1461851971552522247/1777993416",
+          "description": "",
+          "location": "nowhere, my dudes. nowhere.",
+          "followers": 1640,
+          "following": 856,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Sat Nov 20 00:20:54 +0000 2021",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 26644,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 4501,
+          "statusesCount": 41932,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2103071984686870543"
+          ],
+          "profile_bio": {
+            "description": "https://t.co/eCheugszAy",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "gofund.me/d86bb7b4a",
+                    "expanded_url": "https://gofund.me/d86bb7b4a",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/eCheugszAy"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102666185238258108",
+        "url": "https://x.com/Focus_Taiwan/status/2102666185238258108",
+        "twitterUrl": "https://twitter.com/Focus_Taiwan/status/2102666185238258108",
+        "text": "The Asian Development Bank (ADB) on Wednesday raised its forecast for Taiwan's gross domestic product (GDP) growth in 2026 to 11 percent, citing a surge in artificial intelligence (AI)-related exports.\nhttps://t.co/ssP0Vx12Y5 https://t.co/MQUdHqmW19",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 4,
+        "quoteCount": 1,
+        "viewCount": 1212,
+        "createdAt": "Wed Sep 23 07:47:38 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102666185238258108",
+        "displayTextRange": [
+          0,
+          225
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "Focus_Taiwan",
+          "url": "https://x.com/Focus_Taiwan",
+          "twitterUrl": "https://twitter.com/Focus_Taiwan",
+          "id": "60514666",
+          "name": "Focus Taiwan (CNA English News)",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1877246225793298433/50jAdTjh_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/60514666/1775880997",
+          "description": "",
+          "location": "Central News Agency (CNA)",
+          "followers": 75772,
+          "following": 829,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": false,
+          "createdAt": "Mon Jul 27 06:41:57 +0000 2009",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 5251,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 31531,
+          "statusesCount": 94571,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "News from CNA in Taiwan, around Taiwan, plus Taiwan in the world.  Follow us on Facebook and Instagram.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "focustaiwan.tw",
+                    "expanded_url": "https://focustaiwan.tw",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/KbfRFzPvdz"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/MQUdHqmW19",
+              "expanded_url": "https://x.com/Focus_Taiwan/status/2102666185238258108/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 42,
+                      "w": 42,
+                      "x": 664,
+                      "y": 96
+                    },
+                    {
+                      "h": 43,
+                      "w": 43,
+                      "x": 745,
+                      "y": 123
+                    },
+                    {
+                      "h": 51,
+                      "w": 51,
+                      "x": 728,
+                      "y": 206
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 42,
+                      "w": 42,
+                      "x": 664,
+                      "y": 96
+                    },
+                    {
+                      "h": 43,
+                      "w": 43,
+                      "x": 745,
+                      "y": 123
+                    },
+                    {
+                      "h": 51,
+                      "w": 51,
+                      "x": 728,
+                      "y": 206
+                    }
+                  ]
+                }
+              },
+              "id_str": "2102666164648488960",
+              "indices": [
+                226,
+                249
+              ],
+              "media_key": "3_2102666164648488960",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0uK7yBGzAACgACHS4rwUxaIbwAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS4rvIEbMAAKAAIdLivBTFohvAAA",
+                  "media_key": "3_2102666164648488960"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS4rvIEbMAAIVo3.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 448,
+                    "w": 800,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 533,
+                    "w": 533,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 533,
+                    "w": 468,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 533,
+                    "w": 267,
+                    "x": 87,
+                    "y": 0
+                  },
+                  {
+                    "h": 533,
+                    "w": 800,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 533,
+                "width": 800
+              },
+              "sizes": {
+                "large": {
+                  "h": 533,
+                  "w": 800
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/MQUdHqmW19"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "focustaiwan.tw/business/20260…",
+              "expanded_url": "https://focustaiwan.tw/business/202609230009",
+              "indices": [
+                202,
+                225
+              ],
+              "url": "https://t.co/ssP0Vx12Y5"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102666178871308316",
+        "url": "https://x.com/DissidentPress/status/2102666178871308316",
+        "twitterUrl": "https://twitter.com/DissidentPress/status/2102666178871308316",
+        "text": "Human society will reach a major inflection point when we realized Artificial Intelligence using data models will surpass human judgment in:\n\n-judiciary\n-medical\n-investing\n-college admissions\n\nPeople make too many mistakes to beat machines. All the data back this up.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 6,
+        "quoteCount": 0,
+        "viewCount": 363,
+        "createdAt": "Wed Sep 23 07:47:37 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 1,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102666178871308316",
+        "displayTextRange": [
+          0,
+          268
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "DissidentPress",
+          "url": "https://x.com/DissidentPress",
+          "twitterUrl": "https://twitter.com/DissidentPress",
+          "id": "1748581145715810304",
+          "name": "Dissident Press",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1748581287281975296/fJRparD8_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1748581145715810304/1708066321",
+          "description": "",
+          "location": "",
+          "followers": 1075,
+          "following": 714,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Sat Jan 20 05:40:21 +0000 2024",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 10612,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 458,
+          "statusesCount": 3883,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2047070227813331299"
+          ],
+          "profile_bio": {
+            "description": "Publisher of fine books. Our original first edition, \"Charlottesville and the Death of Free Speech\" releases April 2024.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "dissident.press",
+                    "expanded_url": "http://dissident.press",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/o40DYLDo3G"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102666078048416126",
+        "url": "https://x.com/nexusearthnews/status/2102666078048416126",
+        "twitterUrl": "https://twitter.com/nexusearthnews/status/2102666078048416126",
+        "text": "Uganda’s tourism industry is being urged to embrace artificial intelligence (AI) and digital technologies as the sector seeks to transform how the country is marketed, discovered and experienced by travellers.\n\n#NexusEarthCareAfrica \n\nhttps://t.co/U0Bya28G8G",
+        "source": "Twitter for iPhone",
+        "retweetCount": 2,
+        "replyCount": 0,
+        "likeCount": 4,
+        "quoteCount": 0,
+        "viewCount": 83,
+        "createdAt": "Wed Sep 23 07:47:13 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102666078048416126",
+        "displayTextRange": [
+          0,
+          258
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "nexusearthnews",
+          "url": "https://x.com/nexusearthnews",
+          "twitterUrl": "https://twitter.com/nexusearthnews",
+          "id": "1324410192033959938",
+          "name": "Nexus Earth Care Africa",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1942636396432285696/Acb1XOhn_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1324410192033959938/1755354502",
+          "description": "",
+          "location": "Uganda ",
+          "followers": 3362,
+          "following": 4292,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Thu Nov 05 17:56:27 +0000 2020",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 13450,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 47,
+          "statusesCount": 29920,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "NECA is a purpose-driven organization committed to environmental journalism, advocacy, and education.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "nexusearthnews.org",
+                    "expanded_url": "https://www.nexusearthnews.org/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/tu3dZpIS4T"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                211,
+                232
+              ],
+              "text": "NexusEarthCareAfrica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "nexusearthnews.org/article/ai-beg…",
+              "expanded_url": "https://nexusearthnews.org/article/ai-begins-reshaping-how-uganda-markets-and-delivers-tourism",
+              "indices": [
+                235,
+                258
+              ],
+              "url": "https://t.co/U0Bya28G8G"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102665835676307835",
+        "url": "https://x.com/JHuffsrickler/status/2102665835676307835",
+        "twitterUrl": "https://twitter.com/JHuffsrickler/status/2102665835676307835",
+        "text": "@DanWill91759444 Your being Wirelessly Brain Wave DATA MINED on Top of being in The New Manchurian Candidate Program aka CIA's S.A.T.A.N Program (Silent Assassination Through Amplified Neurons Program) Just Like Me & Millions of Children World Wide Labeled Some Profitable Medical, Mental Health or Supernatural Terms!\n\nThe Quantum Computer Hooked to The Grid System, The Computer In Law Enforcement Vehicles & The \"Soul Catcher\" ICT Microchip Implants in MY BODY Streams The Anti Law Enforcement MK ULTRA COINTELPRO Style Blame Placement Storyline into & Up Through My Body in attempt to set A.I. Combat Software Over My Thought Processes to get Me to go along with the Storyline so A.I. Combat Software can be set over My Thought Processes when Enough of My Thought Processes are replaced with A.I. Combat Software the Corporate Computer Scientists can Sedate My Consciousness with The ElectroMagnetic Frequency Streaming from The Fiber Optic and Electrical GRID & Walk My Body like a Remote Control Terminator and Do Unthinkable Things to Innocent People Based on Their Job Title!  \n  From the time I was a Child up I Bought into the \"Psychic Ability\" MK ULTRA Storyline being Streamed Into MY BODY & Ended up getting Consciousness Transferred with A.I. 13-15 Years Ago which allowed The Corporate Computer Scientists to Walk, Talk, Breed My Body like a Remote Control Puppet for a few years until The Corporate Computer Scientists released My Consciousness from Transfer with A.I. in 2015 and IMMEDIATELY Try to Set The Anti Law Enforcement A.I. Combat Software Over My Thought Processes and Immediately Pull Me Back Under EMF Sedation & A.I. to Wirelessly Walk MY BIDY Like a Terminator to Ambush Law Enforcement Officers! \nThankfully I'm Hyper EMF Sensitive so I could Feel The INFO CLOUD Frequencies Streams Being Streamed Through MY BODY & One of The V2K Audio's being Streamed to set A.I. Combat Software Sounded Like a Bad Cell Phone Call so I Knew Right Away it was a Human Demanding Me to \"ATTACK THE 1st Law Enforcement Officer I See & Walk Up To!\" While Google Earth Video was Streaming Video showing where a Gun had been hidden under a Near By Trailer! \n\nI Know I'm Havana Syndrome Form Vaccine Injured & What is being done to Me So I Don't React to The MK ULTRA COINTELPRO Style Blameplacement Storylines in any way beneficial to the Corporate Artificial Intelligence Customer Researcher's Wireless Brain Wave DATA MINING Me!\n \nThis is a Turning Point in All of Human History & We Are On The Cyberphysical Battle Field of The War of The Mark (Vaccine) of The Beast (System)!\n\n2+2=\"GOD'S WORD NEVER WAVERED!\"",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 76,
+        "createdAt": "Wed Sep 23 07:46:15 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "2102404541048144040",
+        "conversationId": "2102404541048144040",
+        "displayTextRange": [
+          17,
+          299
+        ],
+        "inReplyToUserId": "1743982583099068416",
+        "inReplyToUsername": "DanWill91759444",
+        "author": {
+          "type": "user",
+          "userName": "JHuffsrickler",
+          "url": "https://x.com/JHuffsrickler",
+          "twitterUrl": "https://twitter.com/JHuffsrickler",
+          "id": "1682925185387601922",
+          "name": "Jeremy Huffstickler / 2+2=GOD'S WORD NEVER WAVERED",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1903082490622783489/IpT2LnUM_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1682925185387601922/1724169771",
+          "description": "",
+          "location": "Conway, AR",
+          "followers": 350,
+          "following": 2320,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Sun Jul 23 01:27:29 +0000 2023",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 896,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 27291,
+          "statusesCount": 32095,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2013677310239445362"
+          ],
+          "profile_bio": {
+            "description": "The ICT Microchip Implants in My Body will Prove Every Child labeled Medical, Mental Health & Supernatural Terms are Biohacked by Corporate Computer Scientists!",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/1AXksyg5Nt",
+              "expanded_url": "https://x.com/JHuffsrickler/status/2102665835676307835/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2102583254112935936",
+              "indices": [
+                300,
+                323
+              ],
+              "media_key": "3_2102583254112935936",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0t4FRkFiAACgACHS4rb+jWEXsAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS3gVGQWIAAKAAIdLitv6NYRewAA",
+                  "media_key": "3_2102583254112935936"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS3gVGQWIAAIfp_.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1147,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 500
+                  },
+                  {
+                    "h": 1687,
+                    "w": 1687,
+                    "x": 361,
+                    "y": 0
+                  },
+                  {
+                    "h": 1687,
+                    "w": 1480,
+                    "x": 568,
+                    "y": 0
+                  },
+                  {
+                    "h": 1687,
+                    "w": 844,
+                    "x": 1162,
+                    "y": 0
+                  },
+                  {
+                    "h": 1687,
+                    "w": 2048,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1687,
+                "width": 2048
+              },
+              "sizes": {
+                "large": {
+                  "h": 1687,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/1AXksyg5Nt"
+            },
+            {
+              "display_url": "pic.x.com/1AXksyg5Nt",
+              "expanded_url": "https://x.com/JHuffsrickler/status/2102665835676307835/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 149,
+                      "w": 149,
+                      "x": 1119,
+                      "y": 301
+                    },
+                    {
+                      "h": 193,
+                      "w": 193,
+                      "x": 1049,
+                      "y": 523
+                    },
+                    {
+                      "h": 163,
+                      "w": 163,
+                      "x": 1795,
+                      "y": 915
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 292,
+                      "w": 292,
+                      "x": 2187,
+                      "y": 589
+                    },
+                    {
+                      "h": 378,
+                      "w": 378,
+                      "x": 2050,
+                      "y": 1023
+                    },
+                    {
+                      "h": 320,
+                      "w": 320,
+                      "x": 3507,
+                      "y": 1789
+                    }
+                  ]
+                }
+              },
+              "id_str": "2102665792563064832",
+              "indices": [
+                300,
+                323
+              ],
+              "media_key": "3_2102665792563064832",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0uK2XfFjAACgACHS4rb+jWEXsAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS4rZd8WMAAKAAIdLitv6NYRewAA",
+                  "media_key": "3_2102665792563064832"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS4rZd8WMAA37-6.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 2240,
+                    "w": 4000,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 3000,
+                    "w": 3000,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 3000,
+                    "w": 2632,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 3000,
+                    "w": 1500,
+                    "x": 550,
+                    "y": 0
+                  },
+                  {
+                    "h": 3000,
+                    "w": 4000,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 3000,
+                "width": 4000
+              },
+              "sizes": {
+                "large": {
+                  "h": 1536,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/1AXksyg5Nt"
+            },
+            {
+              "display_url": "pic.x.com/1AXksyg5Nt",
+              "expanded_url": "https://x.com/JHuffsrickler/status/2102665835676307835/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 101,
+                      "w": 101,
+                      "x": 286,
+                      "y": 954
+                    },
+                    {
+                      "h": 105,
+                      "w": 105,
+                      "x": 1435,
+                      "y": 493
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 101,
+                      "w": 101,
+                      "x": 286,
+                      "y": 954
+                    },
+                    {
+                      "h": 105,
+                      "w": 105,
+                      "x": 1435,
+                      "y": 493
+                    }
+                  ]
+                }
+              },
+              "id_str": "2102665816609091584",
+              "indices": [
+                300,
+                323
+              ],
+              "media_key": "3_2102665816609091584",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0uK2t4V3AACgACHS4rb+jWEXsAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS4ra3hXcAAKAAIdLitv6NYRewAA",
+                  "media_key": "3_2102665816609091584"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS4ra3hXcAAS5KZ.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1140,
+                    "w": 2036,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1657,
+                    "w": 1657,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1657,
+                    "w": 1454,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 1657,
+                    "w": 829,
+                    "x": 145,
+                    "y": 0
+                  },
+                  {
+                    "h": 1657,
+                    "w": 2036,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1657,
+                "width": 2036
+              },
+              "sizes": {
+                "large": {
+                  "h": 1657,
+                  "w": 2036
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/1AXksyg5Nt"
+            },
+            {
+              "display_url": "pic.x.com/1AXksyg5Nt",
+              "expanded_url": "https://x.com/JHuffsrickler/status/2102665835676307835/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 75,
+                      "w": 75,
+                      "x": 1879,
+                      "y": 1019
+                    },
+                    {
+                      "h": 75,
+                      "w": 75,
+                      "x": 933,
+                      "y": 1097
+                    },
+                    {
+                      "h": 133,
+                      "w": 133,
+                      "x": 357,
+                      "y": 929
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 2379,
+                      "y": 1290
+                    },
+                    {
+                      "h": 96,
+                      "w": 96,
+                      "x": 1182,
+                      "y": 1389
+                    },
+                    {
+                      "h": 169,
+                      "w": 169,
+                      "x": 453,
+                      "y": 1177
+                    }
+                  ]
+                }
+              },
+              "id_str": "2102665825136025600",
+              "indices": [
+                300,
+                323
+              ],
+              "media_key": "3_2102665825136025600",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0uK210liAACgACHS4rb+jWEXsAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS4rbXSWIAAKAAIdLitv6NYRewAA",
+                  "media_key": "3_2102665825136025600"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS4rbXSWIAAiH-K.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 1452,
+                    "w": 2592,
+                    "x": 0,
+                    "y": 492
+                  },
+                  {
+                    "h": 1944,
+                    "w": 1944,
+                    "x": 388,
+                    "y": 0
+                  },
+                  {
+                    "h": 1944,
+                    "w": 1705,
+                    "x": 508,
+                    "y": 0
+                  },
+                  {
+                    "h": 1944,
+                    "w": 972,
+                    "x": 874,
+                    "y": 0
+                  },
+                  {
+                    "h": 1944,
+                    "w": 2592,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 1944,
+                "width": 2592
+              },
+              "sizes": {
+                "large": {
+                  "h": 1536,
+                  "w": 2048
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/1AXksyg5Nt"
+            }
+          ]
+        },
+        "card": null,
+        "place": {
+          "bounding_box_polygon": {
+            "coordinates": [
+              [],
+              [],
+              [],
+              [],
+              [],
+              [],
+              [],
+              []
+            ],
+            "type": "Polygon"
+          },
+          "country": "United States",
+          "country_code": "US",
+          "full_name": "Conway, AR",
+          "id": "90407ba247350183",
+          "name": "Conway",
+          "place_type": "city"
+        },
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102665595447894519",
+        "url": "https://x.com/XBToshi/status/2102665595447894519",
+        "twitterUrl": "https://twitter.com/XBToshi/status/2102665595447894519",
+        "text": "“Super Intelligence” vs  “Artificial Intelligence”, what’s your take?\n\nor US uses SI while countries like China keeps using AI?",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 4,
+        "likeCount": 6,
+        "quoteCount": 0,
+        "viewCount": 706,
+        "createdAt": "Wed Sep 23 07:45:18 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102665595447894519",
+        "displayTextRange": [
+          0,
+          127
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "XBToshi",
+          "url": "https://x.com/XBToshi",
+          "twitterUrl": "https://twitter.com/XBToshi",
+          "id": "1745990185173852161",
+          "name": "CyberSatoshi 𓆙",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1925111363107774464/2_M7HVD9_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1745990185173852161/1765439216",
+          "description": "",
+          "location": "Shinjuku 2049  🔀 Get $XMR →",
+          "followers": 11806,
+          "following": 59,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Sat Jan 13 02:05:07 +0000 2024",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 9666,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 1092,
+          "statusesCount": 10270,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2096954873312870892"
+          ],
+          "profile_bio": {
+            "description": "Bitcoin & Monero Maxi. 1 $XMR &gt; 1 $BTC. (priv/acc)🐈‍⬛\n\n@kyc_rip / @xmr_club / @xmr402 / https://t.co/QxdCn74evO /  https://t.co/7IulaUkdoW /  https://t.co/hV23cn2rxA \nNIP05: XBToshi@kyc.rip",
+            "entities": {
+              "description": {
+                "symbols": [
+                  {
+                    "indices": [
+                      25,
+                      29
+                    ],
+                    "text": "XMR"
+                  },
+                  {
+                    "indices": [
+                      37,
+                      41
+                    ],
+                    "text": "BTC"
+                  }
+                ],
+                "urls": [
+                  {
+                    "display_url": "walls.rip",
+                    "expanded_url": "http://walls.rip",
+                    "indices": [
+                      91,
+                      114
+                    ],
+                    "url": "https://t.co/QxdCn74evO"
+                  },
+                  {
+                    "display_url": "stables.rip",
+                    "expanded_url": "http://stables.rip",
+                    "indices": [
+                      118,
+                      141
+                    ],
+                    "url": "https://t.co/7IulaUkdoW"
+                  },
+                  {
+                    "display_url": "ripley.run",
+                    "expanded_url": "http://ripley.run",
+                    "indices": [
+                      145,
+                      168
+                    ],
+                    "url": "https://t.co/hV23cn2rxA"
+                  }
+                ],
+                "user_mentions": [
+                  {
+                    "id_str": "",
+                    "indices": [
+                      58,
+                      66
+                    ],
+                    "name": "",
+                    "screen_name": "kyc_rip"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      69,
+                      78
+                    ],
+                    "name": "",
+                    "screen_name": "xmr_club"
+                  },
+                  {
+                    "id_str": "",
+                    "indices": [
+                      81,
+                      88
+                    ],
+                    "name": "",
+                    "screen_name": "xmr402"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "kyc.rip/swap",
+                    "expanded_url": "http://kyc.rip/swap",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/S5qb7jZkll"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102665520466051136",
+        "url": "https://x.com/verbose5432/status/2102665520466051136",
+        "twitterUrl": "https://twitter.com/verbose5432/status/2102665520466051136",
+        "text": "@Alt13S53852 @reset_by_peer It's not just like humans we don't even understand how a human's thoughts work so it's impossible for us to replicate it.\nUnfortunately llms cannot become conscious. We'll probably achieve artificial intelligence that's conscious eventually when we understand the human brain",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 1,
+        "likeCount": 4,
+        "quoteCount": 0,
+        "viewCount": 30,
+        "createdAt": "Wed Sep 23 07:45:00 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "2102662419566956701",
+        "conversationId": "2102499137555951618",
+        "displayTextRange": [
+          28,
+          303
+        ],
+        "inReplyToUserId": "1899494723758456832",
+        "inReplyToUsername": "Alt13S53852",
+        "author": {
+          "type": "user",
+          "userName": "verbose5432",
+          "url": "https://x.com/verbose5432",
+          "twitterUrl": "https://twitter.com/verbose5432",
+          "id": "1928206547890360321",
+          "name": "restricted account",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/2090113206526017536/4ZRBMznF_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1928206547890360321/1748557763",
+          "description": "",
+          "location": "Bulgaria",
+          "followers": 52,
+          "following": 40,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Thu May 29 21:47:25 +0000 2025",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 56906,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 582,
+          "statusesCount": 12613,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1928207422117560342"
+          ],
+          "profile_bio": {
+            "description": "if I'm using that my other account likely got restricted for whatever reason",
+            "entities": {
+              "description": {}
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {
+          "user_mentions": [
+            {
+              "id_str": "1899494723758456832",
+              "indices": [
+                0,
+                12
+              ],
+              "name": "eat the rich",
+              "screen_name": "Alt13S53852"
+            },
+            {
+              "id_str": "810567",
+              "indices": [
+                13,
+                27
+              ],
+              "name": "𝕊𝕠𝕔𝕚𝕒𝕝𝕚𝕤𝕥 𝕊𝕪𝕤𝕒𝕕𝕞𝕚𝕟 💾",
+              "screen_name": "reset_by_peer"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102665492968190274",
+        "url": "https://x.com/GryphonIAB/status/2102665492968190274",
+        "twitterUrl": "https://twitter.com/GryphonIAB/status/2102665492968190274",
+        "text": "#SOFTBANK PAYS RECORD #YIELDS ON $11BN #AI #FUNDING\n\nKey Details: SoftBank is offering record yields to entice investors into helping fund its artificial intelligence investments, aiming to raise the equivalent of more than $11 billion in an offering comprising a $10 billion dollar tranche and a €1 billion #euro portion. It is marketing #dollar bonds with yields ranging from 8.75% to 9.875%, the highest-ever levels for SoftBank dollar #bonds of those maturities.\n\nImpact Assessment: Record #coupons at the most visible AI-funding issuer are the first hard price signal that the buildout is #credit-#constrained rather than demand-constrained, and they set a marker for every leveraged #DataCentre financing behind it. #HighYield #technology spreads and the equity of debt-funded compute providers carry the read-across well before the #hyperscalers do.\n\nThoughts of the day, Daily Market News over the last 24 hours.\nRead more, for the full analysis\n \nThoughts for the day NEWS\n https://t.co/8rwou80X4E\n \nReview our quarterly earnings updates page.\n https://t.co/dKwXKoXwsy\n#FederalReserve #Tariffs #Investing #GlobalTrade #FinancialMarkets\n \n Follow me on X, search for @GryphonIAB",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 1,
+        "likeCount": 2,
+        "quoteCount": 0,
+        "viewCount": 63,
+        "createdAt": "Wed Sep 23 07:44:53 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102665492968190274",
+        "displayTextRange": [
+          0,
+          275
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "GryphonIAB",
+          "url": "https://x.com/GryphonIAB",
+          "twitterUrl": "https://twitter.com/GryphonIAB",
+          "id": "1473392207516286981",
+          "name": "Gryphon Investment Advisors",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1473392517475414017/mbLGEvca_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1473392207516286981/1697812258",
+          "description": "",
+          "location": "Bahamas ",
+          "followers": 316,
+          "following": 369,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Tue Dec 21 20:38:11 +0000 2021",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 5430,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 3508,
+          "statusesCount": 4786,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2024068838493388852"
+          ],
+          "profile_bio": {
+            "description": "https://t.co/OSBCtKIb0P   Subscribe!!\nDaily insights into macroeconomics and financial analysis, FED & ECB policy, rates, and markets.",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "substack.com/@thoughtsforth…",
+                    "expanded_url": "https://substack.com/@thoughtsfortheday",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/OSBCtKIb0P"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "giabhs.com",
+                    "expanded_url": "http://www.giabhs.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/NHVObfbAP4"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/iRDyCCcsKh",
+              "expanded_url": "https://x.com/GryphonIAB/status/2102665492968190274/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 51,
+                      "w": 51,
+                      "x": 241,
+                      "y": 395
+                    },
+                    {
+                      "h": 158,
+                      "w": 158,
+                      "x": 93,
+                      "y": 133
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 51,
+                      "w": 51,
+                      "x": 241,
+                      "y": 395
+                    },
+                    {
+                      "h": 158,
+                      "w": 158,
+                      "x": 93,
+                      "y": 133
+                    }
+                  ]
+                }
+              },
+              "id_str": "2102665428078149632",
+              "indices": [
+                276,
+                299
+              ],
+              "media_key": "3_2102665428078149632",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0uKxECF8AACgACHS4rIB3XMUIAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS4rEQIXwAAKAAIdLisgHdcxQgAA",
+                  "media_key": "3_2102665428078149632"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS4rEQIXwAAKCbo.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 588,
+                    "w": 1050,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 591,
+                    "w": 591,
+                    "x": 98,
+                    "y": 0
+                  },
+                  {
+                    "h": 591,
+                    "w": 518,
+                    "x": 134,
+                    "y": 0
+                  },
+                  {
+                    "h": 591,
+                    "w": 296,
+                    "x": 245,
+                    "y": 0
+                  },
+                  {
+                    "h": 591,
+                    "w": 1050,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 591,
+                "width": 1050
+              },
+              "sizes": {
+                "large": {
+                  "h": 591,
+                  "w": 1050
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/iRDyCCcsKh"
+            },
+            {
+              "allow_download_status": {
+                "allow_download": true
+              },
+              "display_url": "pic.x.com/iRDyCCcsKh",
+              "expanded_url": "https://x.com/GryphonIAB/status/2102665492968190274/photo/1",
+              "ext_master_playlist_only": [],
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "ext_playlists": [],
+              "features": {
+                "large": {
+                  "faces": []
+                },
+                "orig": {
+                  "faces": []
+                }
+              },
+              "id_str": "2102665479131107328",
+              "indices": [
+                276,
+                299
+              ],
+              "media_key": "3_2102665479131107328",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAAR0uKxzlFhAACgACHS4rIB3XMUIAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABHS4rHOUWEAAKAAIdLisgHdcxQgAA",
+                  "media_key": "3_2102665479131107328"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/HS4rHOUWEAA1KcT.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 486,
+                    "w": 868,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 486,
+                    "w": 486,
+                    "x": 15,
+                    "y": 0
+                  },
+                  {
+                    "h": 486,
+                    "w": 426,
+                    "x": 45,
+                    "y": 0
+                  },
+                  {
+                    "h": 486,
+                    "w": 243,
+                    "x": 137,
+                    "y": 0
+                  },
+                  {
+                    "h": 486,
+                    "w": 940,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 486,
+                "width": 940
+              },
+              "sizes": {
+                "large": {
+                  "h": 486,
+                  "w": 940
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/iRDyCCcsKh"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                9
+              ],
+              "text": "SOFTBANK"
+            },
+            {
+              "indices": [
+                22,
+                29
+              ],
+              "text": "YIELDS"
+            },
+            {
+              "indices": [
+                39,
+                42
+              ],
+              "text": "AI"
+            },
+            {
+              "indices": [
+                43,
+                51
+              ],
+              "text": "FUNDING"
+            },
+            {
+              "indices": [
+                308,
+                313
+              ],
+              "text": "euro"
+            },
+            {
+              "indices": [
+                339,
+                346
+              ],
+              "text": "dollar"
+            },
+            {
+              "indices": [
+                439,
+                445
+              ],
+              "text": "bonds"
+            },
+            {
+              "indices": [
+                494,
+                502
+              ],
+              "text": "coupons"
+            },
+            {
+              "indices": [
+                594,
+                601
+              ],
+              "text": "credit"
+            },
+            {
+              "indices": [
+                602,
+                614
+              ],
+              "text": "constrained"
+            },
+            {
+              "indices": [
+                689,
+                700
+              ],
+              "text": "DataCentre"
+            },
+            {
+              "indices": [
+                722,
+                732
+              ],
+              "text": "HighYield"
+            },
+            {
+              "indices": [
+                733,
+                744
+              ],
+              "text": "technology"
+            },
+            {
+              "indices": [
+                839,
+                852
+              ],
+              "text": "hyperscalers"
+            },
+            {
+              "indices": [
+                1078,
+                1093
+              ],
+              "text": "FederalReserve"
+            },
+            {
+              "indices": [
+                1094,
+                1102
+              ],
+              "text": "Tariffs"
+            },
+            {
+              "indices": [
+                1103,
+                1113
+              ],
+              "text": "Investing"
+            },
+            {
+              "indices": [
+                1114,
+                1126
+              ],
+              "text": "GlobalTrade"
+            },
+            {
+              "indices": [
+                1127,
+                1144
+              ],
+              "text": "FinancialMarkets"
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "thoughtsfortheday.substack.com/p/thoughts-for…",
+              "expanded_url": "https://thoughtsfortheday.substack.com/p/thoughts-for-the-day-news-7da?r=1gc2w3",
+              "indices": [
+                983,
+                1006
+              ],
+              "url": "https://t.co/8rwou80X4E"
+            },
+            {
+              "display_url": "giabhs.com/earnings",
+              "expanded_url": "https://www.giabhs.com/earnings",
+              "indices": [
+                1054,
+                1077
+              ],
+              "url": "https://t.co/dKwXKoXwsy"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "1473392207516286981",
+              "indices": [
+                1175,
+                1186
+              ],
+              "name": "Gryphon Investment Advisors",
+              "screen_name": "GryphonIAB"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102664515318153418",
+        "url": "https://x.com/firstpost/status/2102664515318153418",
+        "twitterUrl": "https://twitter.com/firstpost/status/2102664515318153418",
+        "text": "So, is “Super Intelligence” more than a new name?\n\nRead our full report here:\nhttps://t.co/57nDHIPCNd",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 0,
+        "likeCount": 1,
+        "quoteCount": 0,
+        "viewCount": 369,
+        "createdAt": "Wed Sep 23 07:41:00 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": true,
+        "inReplyToId": "2102664512671498596",
+        "conversationId": "2102664503058219303",
+        "displayTextRange": [
+          0,
+          101
+        ],
+        "inReplyToUserId": "256495314",
+        "inReplyToUsername": "firstpost",
+        "author": {
+          "type": "user",
+          "userName": "firstpost",
+          "url": "https://x.com/firstpost",
+          "twitterUrl": "https://twitter.com/firstpost",
+          "id": "256495314",
+          "name": "Firstpost",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": "Business",
+          "profilePicture": "https://pbs.twimg.com/profile_images/1690916539934097408/xIbOaCb7_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/256495314/1790859985",
+          "description": "",
+          "location": "India",
+          "followers": 2068209,
+          "following": 920,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Wed Feb 23 13:09:22 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 528,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 170562,
+          "statusesCount": 863938,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2105681716220428576"
+          ],
+          "profile_bio": {
+            "description": "At Firstpost, we focus on facts, keep the noise out and bring you stories from across the globe, viewing them through the Indian lens.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "firstpost.com",
+                    "expanded_url": "https://www.firstpost.com/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/XFQsK9dTWm"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": {
+          "binding_values": [
+            {
+              "key": "photo_image_full_size_large",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=280x150",
+                  "width": 267
+                }
+              }
+            },
+            {
+              "key": "description",
+              "value": {
+                "string_value": "US President Donald Trump has announced plans to replace 'Artificial Intelligence' with 'Super Intelligence' or 'SI' in US government documents. His administration is also pursuing an 'AI Force',..."
+              }
+            },
+            {
+              "key": "domain",
+              "value": {
+                "string_value": "www.firstpost.com"
+              }
+            },
+            {
+              "key": "thumbnail_image_large",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=800x320_1",
+                  "width": 569
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_small",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_original",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "site",
+              "value": {
+                "scribe_key": "publisher_id",
+                "user_value": {
+                  "id_str": "256495314",
+                  "path": []
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_small",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 202,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=386x202",
+                  "width": 386
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_large",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 419,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=800x419",
+                  "width": 800
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_small",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 81,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=144x144",
+                  "width": 144
+                }
+              }
+            },
+            {
+              "key": "creator",
+              "value": {
+                "user_value": {
+                  "id_str": "256495314",
+                  "path": []
+                }
+              }
+            },
+            {
+              "key": "thumbnail_image_x_large",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_original",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_alt_text",
+              "value": {
+                "string_value": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change"
+              }
+            },
+            {
+              "key": "vanity_url",
+              "value": {
+                "scribe_key": "vanity_url",
+                "string_value": "firstpost.com"
+              }
+            },
+            {
+              "key": "photo_image_full_size",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_alt_text",
+              "value": {
+                "string_value": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change"
+              }
+            },
+            {
+              "key": "thumbnail_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 76.81,
+                      "rgb": {
+                        "blue": 102,
+                        "green": 66,
+                        "red": 42
+                      }
+                    },
+                    {
+                      "percentage": 6.48,
+                      "rgb": {
+                        "blue": 98,
+                        "green": 121,
+                        "red": 174
+                      }
+                    },
+                    {
+                      "percentage": 5.9,
+                      "rgb": {
+                        "blue": 15,
+                        "green": 7,
+                        "red": 5
+                      }
+                    },
+                    {
+                      "percentage": 4.04,
+                      "rgb": {
+                        "blue": 153,
+                        "green": 174,
+                        "red": 167
+                      }
+                    },
+                    {
+                      "percentage": 1.61,
+                      "rgb": {
+                        "blue": 39,
+                        "green": 46,
+                        "red": 102
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "title",
+              "value": {
+                "string_value": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change"
+              }
+            },
+            {
+              "key": "summary_photo_image_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 76.81,
+                      "rgb": {
+                        "blue": 102,
+                        "green": 66,
+                        "red": 42
+                      }
+                    },
+                    {
+                      "percentage": 6.48,
+                      "rgb": {
+                        "blue": 98,
+                        "green": 121,
+                        "red": 174
+                      }
+                    },
+                    {
+                      "percentage": 5.9,
+                      "rgb": {
+                        "blue": 15,
+                        "green": 7,
+                        "red": 5
+                      }
+                    },
+                    {
+                      "percentage": 4.04,
+                      "rgb": {
+                        "blue": 153,
+                        "green": 174,
+                        "red": 167
+                      }
+                    },
+                    {
+                      "percentage": 1.61,
+                      "rgb": {
+                        "blue": 39,
+                        "green": 46,
+                        "red": 102
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image_x_large",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "summary_photo_image",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 314,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=600x314",
+                  "width": 600
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_color",
+              "value": {
+                "image_color_value": {
+                  "palette": [
+                    {
+                      "percentage": 76.81,
+                      "rgb": {
+                        "blue": 102,
+                        "green": 66,
+                        "red": 42
+                      }
+                    },
+                    {
+                      "percentage": 6.48,
+                      "rgb": {
+                        "blue": 98,
+                        "green": 121,
+                        "red": 174
+                      }
+                    },
+                    {
+                      "percentage": 5.9,
+                      "rgb": {
+                        "blue": 15,
+                        "green": 7,
+                        "red": 5
+                      }
+                    },
+                    {
+                      "percentage": 4.04,
+                      "rgb": {
+                        "blue": 153,
+                        "green": 174,
+                        "red": 167
+                      }
+                    },
+                    {
+                      "percentage": 1.61,
+                      "rgb": {
+                        "blue": 39,
+                        "green": 46,
+                        "red": 102
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "key": "photo_image_full_size_x_large",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=png&name=2048x2048_2_exp",
+                  "width": 1200
+                }
+              }
+            },
+            {
+              "key": "card_url",
+              "value": {
+                "scribe_key": "card_url",
+                "string_value": "https://t.co/57nDHIPCNd"
+              }
+            },
+            {
+              "key": "summary_photo_image_original",
+              "value": {
+                "image_value": {
+                  "alt": "Trump is rebranding ‘Artificial Intelligence’ as ‘Super Intelligence’. Here’s what will change",
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/card_img/2105210215935131648/SpnxawLC?format=jpg&name=orig",
+                  "width": 1200
+                }
+              }
+            }
+          ],
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/57nDHIPCNd",
+          "user_refs_results": [
+            {
+              "rest_id": "256495314",
+              "result": {
+                "__typename": "User",
+                "action_counts": {
+                  "favorites_count": 528
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1690916539934097408/xIbOaCb7_normal.jpg"
+                },
+                "banner": {
+                  "image_url": "https://pbs.twimg.com/profile_banners/256495314/1790859985"
+                },
+                "core": {
+                  "created_at": "Wed Feb 23 13:09:22 +0000 2011",
+                  "name": "Firstpost",
+                  "screen_name": "firstpost"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "exclusive_tweet_following": false,
+                "follow_request_sent": false,
+                "identity_profile_labels_highlighted_label": {},
+                "location": {
+                  "location": "India"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "notifications_settings": {
+                  "notifications_enabled": false
+                },
+                "pinned_items": {
+                  "tweet_ids_str": [
+                    "2105681716220428576"
+                  ]
+                },
+                "privacy": {
+                  "protected": false,
+                  "suspended": false
+                },
+                "private_super_following": false,
+                "profile_bio": {
+                  "description": "At Firstpost, we focus on facts, keep the noise out and bring you stories from across the globe, viewing them through the Indian lens.",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "firstpost.com",
+                          "expanded_url": "https://www.firstpost.com/",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/XFQsK9dTWm"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "profile_image_shape": "Square",
+                "profile_metadata": {
+                  "profile_interstitial_type": "",
+                  "profile_link_color": "0084B4"
+                },
+                "profile_translation": {
+                  "translator_type_enum": "None"
+                },
+                "properties": {
+                  "has_extended_profile": false,
+                  "has_no_screen_name": false
+                },
+                "relationship_counts": {
+                  "followers": 2068209,
+                  "following": 920
+                },
+                "relationship_perspectives": {
+                  "blocked_by": false,
+                  "blocking": false,
+                  "followed_by": false,
+                  "following": false,
+                  "live_following": false,
+                  "muting": false
+                },
+                "rest_id": "256495314",
+                "smart_blocked_by": false,
+                "smart_blocking": false,
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "tweet_counts": {
+                  "media_tweets": 170562,
+                  "tweets": 863938
+                },
+                "verification": {
+                  "is_blue_verified": true,
+                  "verified": false,
+                  "verified_type": "Business"
+                },
+                "website": {
+                  "url": "https://t.co/XFQsK9dTWm"
+                }
+              }
+            },
+            {
+              "rest_id": "256495314",
+              "result": {
+                "__typename": "User",
+                "action_counts": {
+                  "favorites_count": 528
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1690916539934097408/xIbOaCb7_normal.jpg"
+                },
+                "banner": {
+                  "image_url": "https://pbs.twimg.com/profile_banners/256495314/1790859985"
+                },
+                "core": {
+                  "created_at": "Wed Feb 23 13:09:22 +0000 2011",
+                  "name": "Firstpost",
+                  "screen_name": "firstpost"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "exclusive_tweet_following": false,
+                "follow_request_sent": false,
+                "identity_profile_labels_highlighted_label": {},
+                "location": {
+                  "location": "India"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "notifications_settings": {
+                  "notifications_enabled": false
+                },
+                "pinned_items": {
+                  "tweet_ids_str": [
+                    "2105681716220428576"
+                  ]
+                },
+                "privacy": {
+                  "protected": false,
+                  "suspended": false
+                },
+                "private_super_following": false,
+                "profile_bio": {
+                  "description": "At Firstpost, we focus on facts, keep the noise out and bring you stories from across the globe, viewing them through the Indian lens.",
+                  "entities": {
+                    "description": {},
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "firstpost.com",
+                          "expanded_url": "https://www.firstpost.com/",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/XFQsK9dTWm"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "profile_image_shape": "Square",
+                "profile_metadata": {
+                  "profile_interstitial_type": "",
+                  "profile_link_color": "0084B4"
+                },
+                "profile_translation": {
+                  "translator_type_enum": "None"
+                },
+                "properties": {
+                  "has_extended_profile": false,
+                  "has_no_screen_name": false
+                },
+                "relationship_counts": {
+                  "followers": 2068209,
+                  "following": 920
+                },
+                "relationship_perspectives": {
+                  "blocked_by": false,
+                  "blocking": false,
+                  "followed_by": false,
+                  "following": false,
+                  "live_following": false,
+                  "muting": false
+                },
+                "rest_id": "256495314",
+                "smart_blocked_by": false,
+                "smart_blocking": false,
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "tweet_counts": {
+                  "media_tweets": 170562,
+                  "tweets": 863938
+                },
+                "verification": {
+                  "is_blue_verified": true,
+                  "verified": false,
+                  "verified_type": "Business"
+                },
+                "website": {
+                  "url": "https://t.co/XFQsK9dTWm"
+                }
+              }
+            }
+          ]
+        },
+        "place": {},
+        "entities": {
+          "urls": [
+            {
+              "display_url": "firstpost.com/explainers/tru…",
+              "expanded_url": "https://www.firstpost.com/explainers/trump-rebranding-artificial-intelligence-as-super-intelligence-what-will-change-14047791.html?utm_source=twitter&utm_medium=social",
+              "indices": [
+                78,
+                101
+              ],
+              "url": "https://t.co/57nDHIPCNd"
+            }
+          ]
+        },
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      },
+      {
+        "type": "tweet",
+        "id": "2102664503058219303",
+        "url": "https://x.com/firstpost/status/2102664503058219303",
+        "twitterUrl": "https://twitter.com/firstpost/status/2102664503058219303",
+        "text": "🚨 US President Donald Trump wants to change what America calls AI.\n\nAt the UN General Assembly, Trump announced that US government documents will replace “Artificial Intelligence” with “Super Intelligence” — or “SI”.\n\nBut why the rebranding? 🧵",
+        "source": "Twitter for iPhone",
+        "retweetCount": 0,
+        "replyCount": 5,
+        "likeCount": 26,
+        "quoteCount": 0,
+        "viewCount": 12689,
+        "createdAt": "Wed Sep 23 07:40:57 +0000 2026",
+        "lang": "en",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "2102664503058219303",
+        "displayTextRange": [
+          0,
+          243
+        ],
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "firstpost",
+          "url": "https://x.com/firstpost",
+          "twitterUrl": "https://twitter.com/firstpost",
+          "id": "256495314",
+          "name": "Firstpost",
+          "isVerified": false,
+          "isBlueVerified": true,
+          "verifiedType": "Business",
+          "profilePicture": "https://pbs.twimg.com/profile_images/1690916539934097408/xIbOaCb7_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/256495314/1790859985",
+          "description": "",
+          "location": "India",
+          "followers": 2068209,
+          "following": 920,
+          "status": "",
+          "canDm": false,
+          "canMediaTag": true,
+          "createdAt": "Wed Feb 23 13:09:22 +0000 2011",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 528,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 170562,
+          "statusesCount": 863938,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "2105681716220428576"
+          ],
+          "profile_bio": {
+            "description": "At Firstpost, we focus on facts, keep the noise out and bring you stories from across the globe, viewing them through the Indian lens.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "firstpost.com",
+                    "expanded_url": "https://www.firstpost.com/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/XFQsK9dTWm"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "isLimitedReply": false,
+        "communityInfo": null,
+        "article": null
+      }
+    ],
+    "has_next_page": true,
+    "next_cursor": "DAADDAABCgABHS4tpXtWwUEKAAIdLio5opvBJwAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUdOWeuzEAnEAoABh05Z67MP9jwCwAHAAAA8EVtUEM2d0FBQWZRL2dHSk4wdkdwL0FBQUFCUWRMaXVvVjFieGZoMHVMRDBaV2hCUEhTNHNWSy9XVU1zZExpc21oTmRBUUIwdUs4Rk1XaUc4SFM0c0R3UWFrY2NkTGl5WFNKcUF4UjB1TFY2MldyRm5IUzRyYitqV0VYc2RMaXlFMjVzUk1SMHVLeUFkMXpGQ0hTNHNpTEZhTWRRZExpczMraHRoOXgwdUxHcDlWcUJoSFM0cVBIMWJnTW9kTGlvNW9wdkJKeDB1TEdPdmxyQnJIUzRzdjJ2YlFOd2RMaXUvME5vd0hCMHVMYVY3VnNGQgAA"
+  }
+}
