@@ -1,5 +1,0 @@
-metric,n_days,news_mean,twitter_mean,news_minus_twitter,paired_t_stat,paired_t_p,wilcoxon_stat,wilcoxon_p
-Mean sentiment,23,-0.0268,-0.0343,0.0075,0.4249755220115698,0.675,125.0,0.709
-Negative share,23,0.1602,0.2913,-0.1311,-11.027342701162535,0.0,0.0,0.0
-Positive share,23,0.0838,0.2033,-0.1194,-8.114997802538479,0.0,0.0,0.0
-Risk-language share,23,0.1744,0.25,-0.0756,-4.795575186628643,0.0001,19.0,0.0001
